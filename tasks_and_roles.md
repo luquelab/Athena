@@ -1,8 +1,7 @@
 # Grant specialist
 Lab member in charge of updating documents and preparing documents for lab grant submissions.
 
-Primary: Diana Y. Lee
-Secondary: Colin Brown
+Primary: **Diana Y. Lee** / Secondary: **Colin Brown**
 
 Tasks:
 + Communicate with the SDSURF grant specialists and other grant specialists in other institutions during the application process of a grant.
@@ -20,8 +19,7 @@ Tasks:
 # Publication specialist
 Lab member providing support in the submissions process for manuscript publications.
 
-Primary: Meghan Osato
-Secondary: Brandon Ricafrente
+Primary: **Meghan Osato** / Secondary: Brandon Ricafrente
 
 Tasks:
 + Check manuscript formating and compliance with submission site.
@@ -34,8 +32,7 @@ Tasks:
 # Media specialist
 Lab memmber providing support in the dissemination of information from the lab.
 
-Primary: Caitlin Bartels
-Secondary: Aurora Vogel
+Primary: **Caitlin Bartels** /  Secondary: **Aurora Vogel**
 
 Tasks:
 + Keep record of current and former lab members (contact info and status).
