@@ -19,7 +19,7 @@ Tasks:
 # Publication specialist
 Lab member providing support in the submissions process for manuscript publications.
 
-Primary: **Meghan Osato** / Secondary: Brandon Ricafrente
+Primary: **Meghan Osato** / Secondary: **Brandon Ricafrente**
 
 Tasks:
 + Check manuscript formating and compliance with submission site.
