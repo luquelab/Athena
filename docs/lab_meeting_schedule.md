@@ -1,17 +1,17 @@
 (A Week: 2 pm (Aurora x) B Week: 9 am (Colin x))
 
-A Week 0: Lab
+A Week 0 (9/2/2021): Lab
 
-B Week 1: Brandon
+B Week 1 (9/9/2021): Brandon
 
-A Week 2: Diana
+A Week 2 (9/16/2021): Diana
 
-B Week 3: Caitlin
+B Week 3 (9/23/2021): Caitlin
 
-A Week 4: Colin
+A Week 4 (9/30/2021): Colin
 
-B Week 5: Aurora
+B Week 5 (10/7/2021): Aurora
 
-A Week 6: Toni
+A Week 6 (10/14/2021): Toni
 
-B Week 7: Lab
+B Week 7 (10/21/2021): Lab
