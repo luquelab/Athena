@@ -1,3 +1,5 @@
+title: myCustomTitle
+
 ### Theme
 # theme: jekyll-theme-cayman
 remote_theme: pmarsceill/just-the-docs
