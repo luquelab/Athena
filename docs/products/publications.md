@@ -7,19 +7,27 @@ parent: Products
 
 # Publications
 
+<small> Current and prior *Lab Members* are displayed in italics. The superscript indicates their academic status at the time of the project. The **Principal Investigator** is highlighted in bold. </small>
+
+<small> <sup>U</sup> Undergraduate student </small>,
+<small> <sup>M</sup> Master student </small>,
+<small> <sup>P</sup> Ph.D. student </small>.
+
+---
+
 Silveira, C.B., **A. Luque**, and F. Rohwer. ["The landscape of lysogeny across microbial community density, diversity, and energetics."](https://doi.org/10.7717/peerj.11213) PeerJ, 9:e11213, 2021.
 
-George, E.E., J. Mullinix, F. Meng, B. Bailey, C. Edwards, B. Felts, A. Haas, A.C. Hartmann, B. Mueller, J. Nulton, T.N.F. Roach, P. Salamon, C.B. Silveira, M.J.A. Vermeij, F.L. Rohwer, and **A. Luque**, ["Space-filling and benthic competition on coral reefs,"](https://doi.org/10.1101/327031) bioRxiv, (2018).
+*George*, *E.E.<sup>M</sup>*, *J. Mullinix<sup>P</sup>*, *F. Meng<sup>U</sup>*, B. Bailey, C. Edwards, B. Felts, A. Haas, A.C. Hartmann, B. Mueller, J. Nulton, T.N.F. Roach, P. Salamon, C.B. Silveira, M.J.A. Vermeij, F.L. Rohwer, and **A. Luque**, ["Space-filling and benthic competition on coral reefs,"](https://doi.org/10.1101/327031) bioRxiv, (2018).
 
-**Luque, A.**, J. Mullinix, M. Anderson, K.S. Williams, and J. Bowers, ["Aligning calculus with life sciences disciplines: the argument for integrating statistical reasoning,"](www.tandfonline.com/doi/full/10.1080/10511970.2021.1881847) PRIMUS, 05 Feb, 2021.
+**Luque, A.**, *J. Mullinix<sup>P</sup>*, M. Anderson, K.S. Williams, and J. Bowers, ["Aligning calculus with life sciences disciplines: the argument for integrating statistical reasoning,"](www.tandfonline.com/doi/full/10.1080/10511970.2021.1881847) PRIMUS, 05 Feb, 2021.
 
-**Luque, A.**, S. Benler, D. Lee, C. Brown, and S. White, ["The missing tailed phages: prediction of small capsid candidates,"](doi.org/10.3390/microorganisms8121944) Microorganisms, 8:1944, 2020.
+**Luque, A.**, S. Benler, *D. Lee<sup>P</sup>*, *C. Brown<sup>M</sup>*, and S. White, ["The missing tailed phages: prediction of small capsid candidates,"](doi.org/10.3390/microorganisms8121944) Microorganisms, 8:1944, 2020.
 
 **Luque, A.** and C.B. Silveira, ["Quantification of lysogeny caused by phage coinfections in microbial communities from biophysical principles,"](https://doi.org/10.1128/mSystems.00353-20) mSystems, 5:e00353-20, 2020.
 
-Cobarrubia, A., J. Tall, A. Crispin-Smith, and **A. Luque**, ["Unifying framework for the diffusion of microscopic particles in mucus,"](https://doi.org/10.1101/2020.07.25.221416) bioRxiv, July 26, 2020.
+*Cobarrubia*, *A.<sup>U</sup>*, *J. Tall<sup>U</sup>*, *A. Crispin-Smith<sup>U</sup>*, and **A. Luque**, ["Unifying framework for the diffusion of microscopic particles in mucus,"](https://doi.org/10.1101/2020.07.25.221416) bioRxiv, July 26, 2020.
 
-Anthenelli, M., E. Jasien, R.A. Edwards, B. Bailey, B. Felts, P. Katira, J. Nulton, F. Rohwer, C.B. Silveira, and **A. Luque**, ["Phage and bacteria diversification through a prophage acquisition ratchet,"](https://doi.org/10.1101/2020.04.08.028340) bioRxiv, April 9, 2020.
+*Anthenelli*, *M.<sup>U</sup>, *E. Jasien<sup>U</sup>*, R.A. Edwards, B. Bailey, B. Felts, P. Katira, J. Nulton, F. Rohwer, C.B. Silveira, and **A. Luque**, ["Phage and bacteria diversification through a prophage acquisition ratchet,"](https://doi.org/10.1101/2020.04.08.028340) bioRxiv, April 9, 2020.
 
 Bowers, J., K. Williams, **A. Luque**, D. Quick, M. Beisiegel, J. Sorensen, J. Kunz, D. Smith, and L. Kayes, ["Paradigms for creating activities that integrate mathematics and science topics,"](doi.org/10.25891/14f6-by82) Journal of Mathematics and Science: Collaborative Explorations, 16: Article 6, 2020.
 
@@ -27,11 +35,11 @@ Silveira, C.B., F.H. Coutinho, G.S. Cavalcanti, S. Benler, M.P. Doane, E.A. Dins
 
 Silveira, C.B., **A. Luque**, T.N.F. Roach, H. Villela, A. Barno, K. Green, B. Reyes, E. Rubio-Portillo, T. Le, S. Mead, M. Hatay, M.J.A. Vermeij, Y. Takeshita, A. Haas, B. Bailey, and F. Rohwer, ["Biophysical and physiological processes causing oxygen loss from coral reefs,"](https://doi.org/10.7554/eLife.49114) eLife, 8:e49114, 2019. eLife Digest: ["Starving corals of oxygen"](elifesciences.org/digests/49114/starving-corals-of-oxygen).
 
-Joiner K., A. Baljon, J. Barr, F. Rohwer, and **A. Luque**, "[Impact of bacteria motility in the encounter rates with bacteriophage in mucus,"](doi.org/10.1038/s41598-019-52794-2) Scientific Reports, 9:16427, 2019.
+*Joiner*, *K.<sup>P</sup>*, A. Baljon, J. Barr, F. Rohwer, and **A. Luque**, "[Impact of bacteria motility in the encounter rates with bacteriophage in mucus,"](doi.org/10.1038/s41598-019-52794-2) Scientific Reports, 9:16427, 2019.
 
 Twarock, R., and **A. Luque**, ["Structural puzzles in virology solved with an overarching icosahedral design principle,"](https://doi.org/10.1038/s41467-019-12367-3) Nature Communications, 10:4414, 2019. Press releases: ["Geometry goes viral"](https://www.york.ac.uk/news-and-events/news/2019/research/geometry-viral-researchers-solve-virus-puzzle/) and ["Why viruses like Herpes and Zika will need to be reclassified"](https://www.eurekalert.org/pub_releases/2019-09/sdsu-wvl092519.php). 
 
-George, E.E., J. Mullinix, F. Meng, B. Bailey, C. Edwards, B. Felts, A. Haas, A.C. Hartmann, B. Mueller, J. Nulton, T.N.F. Roach, P. Salamon, C.B. Silveira, M.J.A. Vermeij, F.L. Rohwer, and **A. Luque**, ["Relevance of coral geometry in the outcomes of the coral-algal benthic war,"](https://doi.org/10.1101/327031) bioRxiv, (2018). 
+*George*, *E.E.<sup>M</sup>*, *J. Mullinix<sup>P</sup>*, *F. Meng<sup>U</sup>*, B. Bailey, C. Edwards, B. Felts, A. Haas, A.C. Hartmann, B. Mueller, J. Nulton, T.N.F. Roach, P. Salamon, C.B. Silveira, M.J.A. Vermeij, F.L. Rohwer, and **A. Luque**, ["Relevance of coral geometry in the outcomes of the coral-algal benthic war,"](https://doi.org/10.1101/327031) bioRxiv, (2018). 
 
 Nguyen, S., K. Baker, B.S. Padman, R. Patwa, R.A. Dunstan, T.A. Weston, K. Schlosser, B. Bailey, T. Lithgow, M. Lazarou, **A. Luque**, F. Rohwer, R.S. Blumberg, and J.J. Barr, ["Bacteriophage transcytosis provides a mechanism to cross epithelial cell layers,"](https://doi.org/10.1128/mBio.01874-17) mBio 8:e01874–17, 2017. Press release in Science: ["Does a sea of viruses inside our body help keep us healthy?](http://www.sciencemag.org/news/2017/11/does-sea-viruses-inside-our-body-help-keep-us-healthy). 
 
