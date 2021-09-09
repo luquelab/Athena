@@ -6,7 +6,7 @@ parent: Organization
 has_children: true
 ---
 
-# Current lab
+# Current lab members
 
 ## Antoni Luque 
 + Principal investigator.
