@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lab agenda
+title: Agenda
 nav_order: 4
 parent: Organization
 ---
