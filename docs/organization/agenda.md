@@ -19,9 +19,9 @@ parent: Organization
 + 2:00 pm - 3:00 pm
 + Diana Lee presenting (35 min).
 
-### September 14 & 16, Tue & Thu: Luque and Garmmann labs
+### September 14 & 16, Tue & Thu: Garmmann and Luque labs
 + 3:00 pm - 5:00 pm
-+ Viral assembly meeting.
++ Viral assembly workshop.
 + Brando Ricafrente presenting on the 14th.
 + Rees Garmann's group presenting on the 16th.
 + Bar after? (play by ear).
@@ -45,3 +45,8 @@ parent: Organization
 ### October 21, Thu: Lab meeting at 9 am
 + 9:00 am - 11:30 am
 + General lab session.
+
+### October 26-29, Tue-Fri: White and Luque labs
++ Time TBD (East coast)
++ Phage capsid structure workshop.
++ Agenda TBD on Oct 1.
