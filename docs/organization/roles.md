@@ -1,3 +1,10 @@
+---
+layout: default
+title: Roles
+nav_order: 3
+parent: Organization
+---
+
 # Grant specialist
 Lab member in charge of updating documents and preparing documents for lab grant submissions.
 
