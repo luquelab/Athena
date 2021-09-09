@@ -3,6 +3,7 @@ layout: default
 title: Courses and Tutorials
 nav_order: 3
 parent: Products
+has_children: true
 ---
 
 # {{ page.title }}
