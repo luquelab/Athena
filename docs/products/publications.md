@@ -7,7 +7,9 @@ parent: Products
 
 # Publications
 
-Silveira, C.B., **A. Luque**, and F. Rohwer. ["The landscape of lysogeny across microbial community density, diversity, and energetics."](doi.org/10.1111/1462-2920.15640) Environmental Microbiology, 23:4098–4111, (2021).
+Silveira, C.B., **A. Luque**, and F. Rohwer. ["The landscape of lysogeny across microbial community density, diversity, and energetics."](https://doi.org/10.7717/peerj.11213) PeerJ, 9:e11213, 2021.
+
+George, E.E., J. Mullinix, F. Meng, B. Bailey, C. Edwards, B. Felts, A. Haas, A.C. Hartmann, B. Mueller, J. Nulton, T.N.F. Roach, P. Salamon, C.B. Silveira, M.J.A. Vermeij, F.L. Rohwer, and **A. Luque**, ["Space-filling and benthic competition on coral reefs,"](https://doi.org/10.1101/327031) bioRxiv, (2018).
 
 **Luque, A.**, J. Mullinix, M. Anderson, K.S. Williams, and J. Bowers, ["Aligning calculus with life sciences disciplines: the argument for integrating statistical reasoning,"](www.tandfonline.com/doi/full/10.1080/10511970.2021.1881847) PRIMUS, 05 Feb, 2021.
 
