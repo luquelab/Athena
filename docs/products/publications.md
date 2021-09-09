@@ -5,7 +5,7 @@ nav_order: 1
 parent: Products
 ---
 
-# Current lab members
+# Publications
 
 Silveira, C.B., **A. Luque**, and F. Rohwer. ["The landscape of lysogeny across microbial community density, diversity, and energetics."](doi.org/10.1111/1462-2920.15640) Environmental Microbiology, 23:4098–4111, (2021).
 
