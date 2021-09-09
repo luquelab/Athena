@@ -21,7 +21,7 @@ parent: Organization
 + Lab updates
 
 ## 2021-09-23, Thursday: Lab meeting at 9 am
-+ Cailin Bartels presenting (20 min)
++ Caitlin Bartels presenting (20 min)
 + Q&A
 + Lab updates
 
