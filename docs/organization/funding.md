@@ -5,9 +5,9 @@ nav_order: 5
 parent: Organization
 ---
 
-# Current funding
+# Current Funding
 
-## Federal funding
+## Federal
 
 ### National Science Foundation (NSF)
 + Characterization and prediction of viral capsid geometries
@@ -17,9 +17,9 @@ parent: Organization
 + From 2020-09-01 to 2023-08-31
 + [NSF link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1951678&HistoricalAwards=false)
 
-## Private funding
+## Private
 
-## State funding
+## State (California)
 
-## Local funding
+## Local (San Diego)
 

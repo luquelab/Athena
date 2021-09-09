@@ -5,7 +5,7 @@ nav_order: 4
 parent: Organization
 ---
 
-# Lab agenda
+# Lab's Agenda
 
 ### September 1, Thursday: Lab meeting
 + 2:00 pm - 3:30 pm
