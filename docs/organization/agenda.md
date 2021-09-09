@@ -1,24 +1,44 @@
 ---
 layout: default
-title: Quarterly agenda
-nav_order: 1
-parent: Home
+title: Lab agenda
+nav_order: 2
+parent: Organization
 ---
 
-A Week: 2 pm (Aurora x) B Week: 9 am (Colin x)
+# Lab agenda
 
-A Week 0 (9/2/2021): Lab
+## 2021-09-02, Thursday: Lab meeting at 2 pm
++ General lab session 
 
-B Week 1 (9/9/2021): Brandon
+## 2021-09-09, Thursday: Lab meeting at 9 am
++ Brandon Ricafrente presenting (20 min).
++ Q&A
++ Lab updates
 
-A Week 2 (9/16/2021): Diana
+## 2021-09-16, Thursday: Lab meeting at 2 pm
++ Diana Lee presenting (40 min)
++ Q&A
++ Lab updates
 
-B Week 3 (9/23/2021): Caitlin
+## 2021-09-23, Thursday: Lab meeting at 9 am
++ Cailin Bartels presenting (20 min)
++ Q&A
++ Lab updates
 
-A Week 4 (9/30/2021): Colin
+## 2021-09-30, Thursday: Lab meeting at 2 pm
++ Colin Brown presenting (20 min)
++ Q&A
++ Lab updates
 
-B Week 5 (10/7/2021): Aurora
+## 2021-10-07, Thursday: Lab meeting at 9 am
++ Aurora Vogel presenting (20 min)
++ Q&A
++ Lab updates
 
-A Week 6 (10/14/2021): Toni
+## 2021-10-14, Thursday: Lab meeting at 2 pm
++ Toni Luque presenting (20 min)
++ Q&A
++ Lab updates
 
-B Week 7 (10/21/2021): Lab
+## 2021-10-21, Thursday: Lab meeting at 9 am
++ General lab session
