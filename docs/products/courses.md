@@ -5,6 +5,6 @@ nav_order: 3
 parent: Products
 ---
 
-# {{ title }}
+# {{ page.title }}
 
-[Luque lab GitHub organization](https://github.com/orgs/luquelab).
+This page contains the courses and tutorials developed by the lab that are available online.
