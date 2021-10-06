@@ -5,7 +5,7 @@ nav_order: 3
 parent: Courses and Tutorials
 ---
 
-# Publishing and maintaining the lab's documentation
+# Publishing the lab's documentation
 
 A core principle in the lab is to share the produced knowledge and technologies with the specialized and general audiences alike, independently of journals. The synthesis and description of the lab's research is a continuous task that must begin shaping at the very start of each project. 
 
