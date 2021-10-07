@@ -39,18 +39,18 @@ parent: Organization
 + Colin Brown presenting (20 min).
 
 ### October 7, Thu: Lab meeting
-+ 9:00 am - 11:30 am
-+ Aurora Vogel presenting (20 min).
++ 9:30 am - 11:30 am
++ Icosahedral catalogue project
 
 ### October 14, Thu: Lab meeting
 + 2:00 pm - 3:30 pm
-+ Caitlin Bartels presenting (20 min).
++ Icosahedral catalogue project
 
 ### October 21, Thu: Lab meeting
-+ 9:00 am - 11:30 am
-+ Toni Luque presenting
++ 9:30 am - 11:30 am
++ Icosahedral catalogue project
 
-### October 26-29, Tue-Fri: White and Luque labs
+### October 26-27, Tue-Wed: White and Luque labs
 + Time TBD (East coast)
 + Phage capsid structure workshop.
 + Agenda TBD on Oct 1.
@@ -60,7 +60,7 @@ parent: Organization
 + Brandon Ricafrente presenting (20 min).
 
 ### November 11, Thu: Lab meeting
-+ 9:00 am - 11:30 am
++ 9:30 am - 11:30 am
 + Diana Lee presenting (20 min)
 
 ### November 18, Thu: Lab meeting
@@ -70,7 +70,7 @@ parent: Organization
 ### November 25 - Thanksgiving
 
 ### December 2, Thu: Lab meeting
-+ 9:00 am - 11:30 am
++ 9:30 am - 11:30 am
 + Aurora Vogel presenting (20 min)
 
 ### December 9, Thu: Lab meeting
