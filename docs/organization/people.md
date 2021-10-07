@@ -31,7 +31,7 @@ has_children: true
 + Master student in Applied Mathematics.
 
 ## Caitlin Bartels
-+ Undergraduate student in Biology.
++ Undergraduate student in Biology (Pre-Medical).
 
 ## Jessica Vogt
 + Undergraduate student in Computer Science.
