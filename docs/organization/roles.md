@@ -37,7 +37,7 @@ Tasks:
 
 
 # Media specialist
-Lab memmber providing support in the dissemination of information from the lab.
+Lab member providing support in the dissemination of information from the lab.
 
 Primary: **Caitlin Bartels** /  Secondary: **Aurora Vogel**
 
