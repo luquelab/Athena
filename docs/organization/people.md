@@ -32,3 +32,6 @@ has_children: true
 
 ## Caitlin Bartels
 + Undergraduate student in Biology.
+
+## Jessica Vogt
++ Undergraduate student in Computer Science.
