@@ -1,3 +1,9 @@
+---
+layout: default
+title: Core readings
+nav_order: 4
+parent: Courses and Tutorials
+---
 # O'Reilly Learning
 Through San Diego State University, all students have access to [O'Reilly](https://learning.oreilly.com/home/), a database full of free books, audio books, case studies, and other resources.
 
