@@ -13,8 +13,8 @@ The lab currently generates public documentation using [GitHub Pages](https://pa
 
 
 ## Publishing the documentation of a new project
-1. Create the repo using the [project_template](https://github.com/luquelab/project_template) repo as a template.
-2. Create a gh-pages branch. This branch will be dedicated to monitor the changes on the website. Once the changes are satisfactory, the modifications should be merged in the repo's main branch.
+1. Create the repo using the [project_template](https://github.com/luquelab/project_template) repo as a template. Press the green "use this template" button, and make sure it's public.
+2. Select the "Main" dropdown on the left, and create a gh-pages branch. This branch will be dedicated to monitor the changes on the website. Once the changes are satisfactory, the modifications should be merged in the repo's main branch.
 3. To generate the website, go to the repo's Settings, click on the Pages panel. Use the /docs folder in the gh-pages branch as the website's source.
 4. GitHub will automatically generate the static website. 
 5. Any commited changes to the gh-pages branch will be reflected on the static website. Unfortunately, these changes are not instantaneous for sites hosted on GitHub Pages. Be patient and minimize structural changes.
