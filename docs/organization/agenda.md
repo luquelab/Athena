@@ -17,7 +17,8 @@ parent: Organization
 + We'll go hang out after.
 
 ### October 26-27, Tue-Wed: White and Luque labs
-+ 1 pm EST (probably 2 hours with breaks for Zoom fatigue)
++ 10/26 Tue: 10am - 12pm Pacific (with breaks)
++ 10/27 Wed: 12:30pm - 2pm Pacific (with a break)
 + Phage capsid structure workshop.
 + We'll share the Capsid Anatomy approach and how to predit capsid architectures from genomic information.
 + They'll share their insight on AlphaFold and how protein models in Cryo-EMs.
@@ -27,18 +28,15 @@ parent: Organization
 + Brandon Ricafrente presenting (20 min)
 
 ### November 9 and 11, Tue and Thu: White and Luque labs
-+ 1 pm EST (probably 2 hours with breaks for Zoom fatigue).
++ 11/9 Tue: 10am - 12pm Pacific (with breaks)
++ 11/11 Thu: 10am - 12pm Pacific (with breaks)
 + Phage capsid structure workshop.
 + We'll share the Capsid Anatomy approach and how to predit capsid architectures from genomic information.
 + They'll share their insight on AlphaFold and how protein models in Cryo-EMs.
 
-### November 11, Thu: Lab meeting
-+ 9:30 am - 11:30 am
-+ Diana Lee presenting (20 min)
-
 ### November 18, Thu: Lab meeting
 + 2:00 pm - 3:30 pm
-+ Caitlin Bartels presenting (20 min)
++ Diana Lee presenting (20 min)
 
 ### November 25 - Thanksgiving
 
