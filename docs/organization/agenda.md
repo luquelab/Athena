@@ -7,10 +7,6 @@ parent: Organization
 
 # Lab's Agenda
 
-### October 21, Thu: Lab meeting
-+ 9:30 am - 11:30 am
-+ Icosahedral catalogue project
-
 ### October 22, Fri: Biomath Meeting
 + 1:00 pm - 3:00 pm
 + Michelle Ann (Segall lab) will present her thesis on the prediction of viral protein functions using machine learning.
