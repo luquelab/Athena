@@ -48,3 +48,10 @@ parent: Organization
 + 2:00 pm- 3:30 pm
 + Colin Brown presenting (20 min)
 
+### January 21, Fri: SRS Registration Deadline
++ Diana & Colin - talks
++ Brandon & Caitlin - posters
++ Aurora - tbd
+
+### March 4 & 5, Fri/Sat: SRS Days
+
