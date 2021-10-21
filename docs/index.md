@@ -11,3 +11,4 @@ The lab's mission is to decipher the role that viruses played in the origin of l
 
 The current lab approach is based on computational modeling, combining mathematics, statistics, and biophysics with experimental collaborations. An intrinsic part of the lab's mission is training a new generation of interdisciplinary researchers with a solid foundation in scientific crafting, metacognition, and rapport.
 
+A Math equation using MathJax: $$5+5$$
