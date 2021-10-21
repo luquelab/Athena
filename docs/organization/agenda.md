@@ -44,10 +44,13 @@ parent: Organization
 + 2:00 pm- 3:30 pm
 + Colin Brown presenting (20 min)
 
+### January 14, Sat: Quarterly Meeting
++ Plan TDB
+
 ### January 21, Fri: SRS Registration Deadline
 + Diana & Colin - talks
 + Brandon & Caitlin - posters
-+ Aurora - tbd
++ Aurora - TDB
 
 ### March 4 & 5, Fri/Sat: SRS Days
 
