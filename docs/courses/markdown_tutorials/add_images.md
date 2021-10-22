@@ -8,7 +8,9 @@ grand_parent: Courses and Tutorials
 
 # Adding Images to Markdown Files
 
-## How to add PNGs
+## SVG Files
+SVG files work best for our purposes, but JPGs and PNGs work as well. When you do use SVG files, make sure that you do not check the box to preserve illustrator editing capabilites. 
+
 The process of adding images to markdown files is fairly simple. But before you start adding images to your markdown file, you need to create an images folder. 
 
 To do that, navigate to the same directory your markdown file is located in, and click on "Add file", and create a new file.
