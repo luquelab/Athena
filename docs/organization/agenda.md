@@ -20,7 +20,7 @@ parent: Organization
 + They'll share their insight on AlphaFold and how protein models in Cryo-EMs.
 
 ### October 28, Thu: Paul Turner's talk
-+ "Phage therapy to combat antibiotic-resistant bacterial infections in cycstic fibrosis patients"
++ "Phage therapy to combat antibiotic-resistant bacterial infections in cystic fibrosis patients"
 + 4:00 pm, BioScience Center & Zoom
 + Anca Segall hosting
 
