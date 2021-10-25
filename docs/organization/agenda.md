@@ -19,6 +19,11 @@ parent: Organization
 + We'll share the Capsid Anatomy approach and how to predit capsid architectures from genomic information.
 + They'll share their insight on AlphaFold and how protein models in Cryo-EMs.
 
+### October 28, Thu: Paul Turner's talk
++ "Phage therapy to combat antibiotic-resistant bacterial infections in cycstic fibrosis patients"
++ 4:00 pm, BioScience Center & Zoom
++ Anca Segall hosting
+
 ### November 4, Thu: Lab meeting
 + 2:00 pm - 3:30 pm
 + Brandon Ricafrente presenting (20 min)
@@ -39,6 +44,10 @@ parent: Organization
 ### December 2, Thu: Lab meeting
 + 9:30 am - 11:30 am
 + Aurora Vogel presenting (20 min)
+
+### December 3, Fri: Ugly Sweater Christmas Pub Crawl
++ 2:00 pm
++ Ocean Beach bars
 
 ### December 9, Thu: Lab meeting
 + 2:00 pm- 3:30 pm
