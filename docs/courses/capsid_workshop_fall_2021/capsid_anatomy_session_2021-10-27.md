@@ -43,8 +43,10 @@ Capsid anatomy:
 
 How to assign T-numbers:
 + Molecular approach: Correspondence between geometric tiles and protein clusters.
-
-
+    + Example: Bacteriophage P22 (PDB 5uu5)
+    + ![5uu5 hexagonal](/images/2021-10-27/pdb_5uu5_hexagonal_lattice.png)
+    + ![5uu5 trihex](/images/2021-10-27/pdb_5uu5_trihex_lattice.png)
+    + ![5uu5 trihex-dual](/images/2021-10-27/pdb_5uu5_trihex-dual_lattice.png)
 
 + Criteria 2 (Colin): Mechanical correspondence between geometric tiles and quasi-rigid protein domains.
 + The auto-lattice protocol aims to offer an automatic strategy with human validation.
