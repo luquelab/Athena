@@ -1,0 +1,42 @@
+# Session 2: Capsid geometrical anatomy (Luque group)
+
+## Recorded zoom session
+
+## Agenda
+
+### Part 1: The Capsid Anatomy Athena
+
+Evolving state-of-the-art accessible online initiative:
++ GitHub repo: <https://github.com/luquelab/auto-lattice>
++ Online public documentation: <https://luquelab.github.io/auto-lattice>
+
+Outreach impact:
++ Share technical state-of-the-art science transparently.
++ Synthesize scienctific knowldege (provide big picture) to complement encyclopedic knowledge.
++ Decouple evolving scientific knowledge from publications, which are snapshots of science necessary for validation, advertisement, and promotion.
+
+Capsid anatomy:
++ Capsid stoichiometry: major capsid protein, minor capsid protein, scaffold, reinforcemen proteins, decoration proteins
+    + The criteria on how to assign functions is not clear.
++ Capsid diameter, surface, volume, and asphericity (internal and external)
+    + Chimera tools: ...
++ Capsid geometric architecture: Lattice and T-number (icosahedral) , Lattice T-number, and Q-number (elongated),...
+    + Chimera tools: hkcage 
+
+How to assign T-numbers:
++ Criteria 1 (Diana): Shape and stoichiometric correspondence between geometric tiles and protein clusters.
++ Criteria 2 (Colin): Mechanical correspondence between geometric tiles and quasi-rigid protein domains.
++ The auto-lattice protocol aims to offer an automatic strategy with human validation.
++ Show example (5uu5) and current outputs.
++ Give insight so far: what looks like a trihex on the surface is a solid hex interiorly: The fish scale mechanism of HK97-fold proteins.
+
+
+### Part 2: Current auto-lattice (criteria 1)
++ More manual than automatic.
++ It will represent our first effort.
+
+### Part 2: Quasi-rigid domains (criteria 2)
++ A potentially more automatic approach.
++ Challenge with large capsids.
+
+
