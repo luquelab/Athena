@@ -19,7 +19,7 @@ published: true
 2. Sharing state-of-the-art science transparently and unpretentiously.
     + Hampering inaccessibility and bombastic scientific rhetoric.
 3. Governing scientific knowledge of the people, for the people, and by the people.
-    + Decoupling knowledge from journal publications (professional validation, advertisement, and promotion).
+    + Decoupling knowledge from journal publications (validation, advertisement, and promotion).
 
 ### Temporary Athena site for the Capsid Anatomy project:
 + GitHub repo: <https://github.com/luquelab/auto-lattice>
