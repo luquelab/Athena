@@ -1,3 +1,7 @@
+---
+published: false
+---
+
 # Session 1: Capsid molecular model from cryoEM map (White group)
 
 ## Recorded zoom session
