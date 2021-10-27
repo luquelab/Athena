@@ -28,8 +28,7 @@ published: true
 ## Part 2: Capsid anatomy:
 
 ### Capsid molecular composition
-+ Major capsid protein, minor capsid protein, scaffold, reinforcemen proteins, and decoration proteins.
-+ Stoichiometry.
++ Stoichiometry: Major capsid, minor capsid, scaffold, reinforcemen, and decoration proteins.
 + Functions other than major capsid protein are usually fuzzy!
 
 ![Patience capsid anatomy](/images/2021-10-27/patience.png)
