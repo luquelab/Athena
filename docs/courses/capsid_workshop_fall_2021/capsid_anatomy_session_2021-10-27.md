@@ -65,11 +65,12 @@ October 27, 2021
 
 
 **Mechanical approach**: Correspondence between quasi-rigid regions and geometrical tiles.
-+ Elastic analysis of capsid (perturbation analysis of alpha-carbon models).
-    + Example: Small tobacco necrosis virus (PDB 1A34)
++ Elastic analysis of capsids
+    + Perturbation analysis of alpha-carbon capsid models.
+    + Example: Small tobacco necrosis virus (PDB 1A34):
     + ![STNV-decomposition](https://luquelab.github.io/cbrown_thesis_athena/output/Subdivisions/1a34_20_domains_optimal.png)
     + ![STNV-animation](https://giphy.com/embed/UGoGrbAlQ2GjVvFT97)
-    + Computational challenge: large capsids.
+    + Computational challenge: *large* capsids.
 
 ### Part 2: Molecular approach (Diana Lee)
 
