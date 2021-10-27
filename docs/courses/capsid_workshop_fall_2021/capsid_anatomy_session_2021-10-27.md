@@ -1,4 +1,13 @@
-# Session 2: Capsid geometrical anatomy (Luque group)
+---
+layout: default
+title: Session 1
+nav_order: 1
+parent: Capsid geometrical anatomy
+grand_parent: Courses and Tutorials
+published: true
+---
+
+# Session 2: Capsid Geometrical Anatomy (Luque group)
 
 ## Recorded zoom session
 
