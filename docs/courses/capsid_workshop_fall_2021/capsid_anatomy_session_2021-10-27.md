@@ -49,7 +49,7 @@ October 27, 2021
     + ![5uu5 hexagonal](/images/2021-10-27/pdb_5uu5_hexagonal_lattice.png)
     + ![5uu5 trihex](/images/2021-10-27/pdb_5uu5_trihex_lattice.png)
     + ![5uu5 trihex-dual](/images/2021-10-27/pdb_5uu5_trihex-dual_lattice.png)
-+ Observation: *Challenge identifying minor capsid proteins:*
++ Observation: *Challenge assigning minor capsid protein function:*
 
     + ![Patience capsid anatomy](/images/2021-10-27/patience.png)
 
