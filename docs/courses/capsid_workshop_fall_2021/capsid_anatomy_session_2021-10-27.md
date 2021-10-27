@@ -69,7 +69,7 @@ October 27, 2021
     + Perturbation analysis of alpha-carbon capsid models.
     + Example: Small tobacco necrosis virus (PDB 1A34):
     + ![STNV-decomposition](https://luquelab.github.io/cbrown_thesis_athena/output/Subdivisions/1a34_20_domains_optimal.png)
-    + ![STNV-animation](https://giphy.com/gifs/UGoGrbAlQ2GjVvFT97/fullscreen)
+    + ![STNV-animation](/images/STNV_elastic_decomposition_giphy.gif)
     + Computational challenge: *large* capsids.
 
 ### Part 2: Molecular approach (Diana Lee)
