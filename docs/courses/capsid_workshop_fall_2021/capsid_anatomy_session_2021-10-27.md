@@ -26,7 +26,9 @@ Temporary Athena site for the Capsid Anatomy project:
 
 Capsid anatomy:
 + Capsid composition and stoichiometry: major capsid protein, minor capsid protein, scaffold, reinforcemen proteins, and decoration proteins.
+
 ![Patience capsid inside](/images/2021-10-27/patience_inside.png)
+
 
 Functions other than major capsid protein are usually fuzzy!
 + Capsid diameter, surface, volume, and asphericity (internal and external)
