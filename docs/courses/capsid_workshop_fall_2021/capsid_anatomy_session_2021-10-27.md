@@ -37,8 +37,9 @@ Capsid anatomy:
 + Capsid diameter, surface, volume, and asphericity (internal and external)
     + Chimera tools: ...
 + Capsid geometric architecture: Lattice and T-number (icosahedral) , Lattice T-number, and Q-number (elongated),...
-    + Generalized T-numbers: [Twarock and Luque, Nature Communications 2019](https://doi.org/10.1038/s41467-019-12367-3)
-    + Chimera X: [hkcage command](https://www.cgl.ucsf.edu/chimerax/docs/user/commands/hkcage.html) and [hkcage bundle](https://cxtoolshed.rbvi.ucsf.edu/apps/chimeraxhkcage) 
+    + Generalized T-numbers: [Twarock and Luque, Nature Communications, 2019](https://doi.org/10.1038/s41467-019-12367-3).
+    + Chimera X: [hkcage command](https://www.cgl.ucsf.edu/chimerax/docs/user/commands/hkcage.html) and [hkcage bundle](https://cxtoolshed.rbvi.ucsf.edu/apps/chimeraxhkcage).
+    + First used in [Luque *et al.* Microorganisms, 2020](https://doi.org/10.3390/microorganisms8121944). 
 
 How to assign T-numbers:
 + Criteria 1 (Diana): Shape and stoichiometric correspondence between geometric tiles and protein clusters.
