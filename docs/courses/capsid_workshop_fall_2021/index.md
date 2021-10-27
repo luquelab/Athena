@@ -7,6 +7,6 @@ has_children: true
 published: true
 ---
 
-This is the Capsid Anatomy Workshop held online in Fall 2021.
+# Capsid Anatomy Workshop 2021
 
-The contributions were from the White lab (UConn) and the Luque lab (SDSU).
+Contributions from the White lab (UConn) and the Luque lab (SDSU) in the inaugural workshop on capsid anatomy.
