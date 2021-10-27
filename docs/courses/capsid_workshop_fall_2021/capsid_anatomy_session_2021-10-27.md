@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Session 1
+title: Session 2
 nav_order: 2
 parent: Capsid Anatomy Workshop 2021
 grand_parent: Courses and Tutorials
