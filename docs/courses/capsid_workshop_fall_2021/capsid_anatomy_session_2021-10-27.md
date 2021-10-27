@@ -11,23 +11,22 @@ published: true
 
 ## Recorded zoom session
 
-## Main session points
+## Part 1: The Capsid Anatomy Athena
 
-### Part 1: The Capsid Anatomy Athena
-
-The Athena initiatve:
+### The Athena initiatve:
 + Share technical state-of-the-art science transparently.
 + Synthesize scienctific knowldege (provide big picture) to complement encyclopedic knowledge.
 + Decouple evolving scientific knowledge from publications, which are snapshots of science necessary for validation, advertisement, and promotion.
 
-Temporary Athena site for the Capsid Anatomy project:
+### Temporary Athena site for the Capsid Anatomy project:
 + GitHub repo: <https://github.com/luquelab/auto-lattice>
 + Online public documentation: <https://luquelab.github.io/auto-lattice>
 
-### Part 2: Capsid anatomy:
+## Part 2: Capsid anatomy:
 
-Capsid composition and stoichiometry
+### Capsid molecular composition
 + Major capsid protein, minor capsid protein, scaffold, reinforcemen proteins, and decoration proteins.
++ Stoichiometry.
 + Functions other than major capsid protein are usually fuzzy!
 
 ![Patience capsid anatomy](/images/2021-10-27/patience.png)
@@ -35,8 +34,11 @@ Capsid composition and stoichiometry
 ![Patience capsid inside](/images/2021-10-27/patience_inside.png)
 
 
-Capsid diameter, surface, volume, and asphericity (internal and external)
-+ Chimera tools: ...
+### Capsid physical propperties
++ Diameter, surface, volume, and asphericity (internal and external).
+    + Chimera: [Icosahedral surface](https://www.cgl.ucsf.edu/chimera/docs/ContributedSoftware/icosahedron/icosahedron.html).
++ Elasticity and brittleness.
+    + No standard approach. 
 
 Capsid geometric architecture: Lattice and T-number (icosahedral) , Lattice T-number, and Q-number (elongated),...
 + Generalized T-numbers: [Twarock and Luque, Nature Communications, 2019](https://doi.org/10.1038/s41467-019-12367-3).
