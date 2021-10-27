@@ -32,7 +32,7 @@ October 27, 2021
 
 ### Capsid physical properties
 + Diameter, surface, volume, and sphericity (internal and external).
-    + Chimera: [Icosahedral surface](https://www.cgl.ucsf.edu/chimera/docs/ContributedSoftware/icosahedron/icosahedron.html).
+    + Chimera: [Icosahedron surface](https://www.cgl.ucsf.edu/chimera/docs/ContributedSoftware/icosahedron/icosahedron.html).
 + Elasticity and brittleness.
     + No standard approach. 
 
