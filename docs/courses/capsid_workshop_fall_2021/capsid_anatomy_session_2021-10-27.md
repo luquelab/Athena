@@ -25,13 +25,15 @@ Temporary Athena site for the Capsid Anatomy project:
 + Online public documentation: <https://luquelab.github.io/auto-lattice>
 
 Capsid anatomy:
-+ Capsid composition and stoichiometry: major capsid protein, minor capsid protein, scaffold, reinforcemen proteins, and decoration proteins.
++ Capsid composition and stoichiometry
+    + Major capsid protein, minor capsid protein, scaffold, reinforcemen proteins, and decoration proteins.
+    + Functions other than major capsid protein are usually fuzzy!
 
 ![Patience capsid anatomy](/images/2021-10-27/patience.png)
 
 ![Patience capsid inside](/images/2021-10-27/patience_inside.png)
 
-Functions other than major capsid protein are usually fuzzy!
+
 + Capsid diameter, surface, volume, and asphericity (internal and external)
     + Chimera tools: ...
 + Capsid geometric architecture: Lattice and T-number (icosahedral) , Lattice T-number, and Q-number (elongated),...
