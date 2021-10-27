@@ -14,10 +14,12 @@ published: true
 ## Part 1: The Athena initiative
 
 ### The three foundations of Athena:
-+ Refactoring scienctific knowldege to restrain the otherwise spontaneous increase of scientific noise (entropy).
-+ Sharing science transparently to hamper bombastic scientific rhetoric.
-+ Gaining control of scientific knowledge for the people and by the people.
-    + Journals publish snapshots of science can be used for validation, advertisement, and promotion (professional ecosystem).
++ Constant restructuring (refactoring) of scienctific knowldege.
+    + Restraining the spontaneous increase of scientific noise (entropy).
++ Sharing science transparently
+    + Hampering bombastic scientific rhetoric.
++ Governing scientific knowledge of the people, for the people, and by the people.
+    + Decoupling with journal publications (professional validation, advertisement, and promotion).
 
 ### Temporary Athena site for the Capsid Anatomy project:
 + GitHub repo: <https://github.com/luquelab/auto-lattice>
