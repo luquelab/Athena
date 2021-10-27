@@ -1,8 +1,13 @@
 ---
+layout: default
+title: Session 1
+nav_order: 1
+parent: Capsid Anatomy Workshop 2021
+grand_parent: Courses and Tutorials
 published: false
 ---
 
-# Session 1: Capsid molecular model from cryoEM map (White group)
+# Session 1: Capsid molecular model from cryoEM map (White lab)
 
 ## Recorded zoom session
 Topic: Luque Lab Meeting
