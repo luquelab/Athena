@@ -24,22 +24,24 @@ Temporary Athena site for the Capsid Anatomy project:
 + GitHub repo: <https://github.com/luquelab/auto-lattice>
 + Online public documentation: <https://luquelab.github.io/auto-lattice>
 
-Capsid anatomy:
-+ Capsid composition and stoichiometry
-    + Major capsid protein, minor capsid protein, scaffold, reinforcemen proteins, and decoration proteins.
-    + Functions other than major capsid protein are usually fuzzy!
+### Part 2: Capsid anatomy:
+
+Capsid composition and stoichiometry
++ Major capsid protein, minor capsid protein, scaffold, reinforcemen proteins, and decoration proteins.
++ Functions other than major capsid protein are usually fuzzy!
 
 ![Patience capsid anatomy](/images/2021-10-27/patience.png)
 
 ![Patience capsid inside](/images/2021-10-27/patience_inside.png)
 
 
-+ Capsid diameter, surface, volume, and asphericity (internal and external)
-    + Chimera tools: ...
-+ Capsid geometric architecture: Lattice and T-number (icosahedral) , Lattice T-number, and Q-number (elongated),...
-    + Generalized T-numbers: [Twarock and Luque, Nature Communications, 2019](https://doi.org/10.1038/s41467-019-12367-3).
-    + Chimera X: [hkcage command](https://www.cgl.ucsf.edu/chimerax/docs/user/commands/hkcage.html) and [hkcage bundle](https://cxtoolshed.rbvi.ucsf.edu/apps/chimeraxhkcage).
-    + First used in [Luque *et al.* Microorganisms, 2020](https://doi.org/10.3390/microorganisms8121944). 
+Capsid diameter, surface, volume, and asphericity (internal and external)
++ Chimera tools: ...
+
+Capsid geometric architecture: Lattice and T-number (icosahedral) , Lattice T-number, and Q-number (elongated),...
++ Generalized T-numbers: [Twarock and Luque, Nature Communications, 2019](https://doi.org/10.1038/s41467-019-12367-3).
++ Chimera X: [hkcage command](https://www.cgl.ucsf.edu/chimerax/docs/user/commands/hkcage.html) and [hkcage bundle](https://cxtoolshed.rbvi.ucsf.edu/apps/chimeraxhkcage).
++ First used in [Luque *et al.* Microorganisms, 2020](https://doi.org/10.3390/microorganisms8121944). 
 
 How to assign T-numbers:
 
@@ -50,7 +52,7 @@ How to assign T-numbers:
     + ![5uu5 trihex-dual](/images/2021-10-27/pdb_5uu5_trihex-dual_lattice.png)
     + Observation: HK97-fold sliding mechanism: <https://luquelab.github.io/auto-lattice/output/>
 
-+ Mechanical approach: Correspondence between geometric tiles and quasi-rigid protein domains.
++ Mechanical approach: Correspondence quasi-rigid protein domains and geometrical tiles.
 + The auto-lattice protocol aims to offer an automatic strategy with human validation.
 + Show example (5uu5) and current outputs.
 + Give insight so far: what looks like a trihex on the surface is a solid hex interiorly: The fish scale mechanism of HK97-fold proteins.
