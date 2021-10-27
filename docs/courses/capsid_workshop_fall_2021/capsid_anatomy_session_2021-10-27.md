@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Session 2 - Capsid geometry
+title: Session 2
 nav_order: 2
 parent: Capsid Anatomy Workshop 2021
 grand_parent: Courses and Tutorials
@@ -8,6 +8,7 @@ published: true
 ---
 
 # Capsid Geometrical Anatomy (Luque lab)
+October 27, 2021
 
 ## Recorded zoom session
 
