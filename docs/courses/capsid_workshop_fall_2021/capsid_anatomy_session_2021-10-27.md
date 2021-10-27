@@ -16,10 +16,10 @@ published: true
 ### The three foundations of Athena:
 + Constant restructuring (refactoring) of scienctific knowldege.
     + Restraining the spontaneous increase of scientific noise (entropy).
-+ Sharing science transparently
++ Sharing the scientific state-of-the-art transparently and unpretentiously.
     + Hampering bombastic scientific rhetoric.
 + Governing scientific knowledge of the people, for the people, and by the people.
-    + Decoupling with journal publications (professional validation, advertisement, and promotion).
+    + Decoupling knowledge from journal publications (professional validation, advertisement, and promotion).
 
 ### Temporary Athena site for the Capsid Anatomy project:
 + GitHub repo: <https://github.com/luquelab/auto-lattice>
