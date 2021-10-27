@@ -24,7 +24,7 @@ October 27, 2021
 + GitHub repo: <https://github.com/luquelab/auto-lattice>
 + Online public documentation: <https://luquelab.github.io/auto-lattice>
 
-## Part 1: Capsid anatomy:
+## Part 1: Capsid anatomy
 
 ### Capsid molecular composition
 + Stoichiometry: Major capsid, minor capsid, scaffold, reinforcemen, and decoration proteins.
