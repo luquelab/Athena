@@ -11,9 +11,9 @@ published: true
 October 27, 2021
 
 ### Access to workshop files
-+ GitHub repo: https://github.com/luquelab/Athena/tree/gh-pages/docs/courses/capsid_workshop_fall_2021
-+ Online content provided by GitHub pages, following the lab's [public documentation approach](docs/courses/lab_public_documentation.md).
-+ This follows our [Athena initiative](docs/knowledge/synthesis.md).
++ Folder in [GitHub repo](https://github.com/luquelab/Athena/tree/gh-pages/docs/courses/capsid_workshop_fall_2021).
++ Online content provided by GitHub pages, following the lab's [public documentation approach](docs/courses/lab_public_documentation.html).
++ This follows our [Athena initiative](docs/knowledge/synthesis.html).
 
 ### Temporary Athena site for the Capsid Anatomy project:
 + GitHub repo: <https://github.com/luquelab/auto-lattice>
