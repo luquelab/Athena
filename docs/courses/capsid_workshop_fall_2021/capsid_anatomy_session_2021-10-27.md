@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Session 2 - Oct 27
+title: Session 2 - Capsid geometry
 nav_order: 2
 parent: Capsid Anatomy Workshop 2021
 grand_parent: Courses and Tutorials
