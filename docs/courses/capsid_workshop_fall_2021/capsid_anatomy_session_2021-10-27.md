@@ -36,13 +36,13 @@ October 27, 2021
 + Elasticity and brittleness.
     + No standard approach. 
 
-### Capsid geometric architecture:
+### Capsid geometric architecture
 + T-number and icosahedral lattice; Q-number for elongated structures.
 + Generalized T-numbers: [Twarock and Luque, Nature Communications, 2019](https://doi.org/10.1038/s41467-019-12367-3).
 + Chimera X: [hkcage command](https://www.cgl.ucsf.edu/chimerax/docs/user/commands/hkcage.html) and [hkcage bundle](https://cxtoolshed.rbvi.ucsf.edu/apps/chimeraxhkcage).
 + First used in [Luque *et al.* Microorganisms, 2020](https://doi.org/10.3390/microorganisms8121944). 
 
-### How to assign T-numbers:
+### How to assign T-numbers
 
 **Molecular approach**: Correspondence between geometric tiles and protein clusters.
 + Example: Bacteriophage P22 (PDB 5uu5)
