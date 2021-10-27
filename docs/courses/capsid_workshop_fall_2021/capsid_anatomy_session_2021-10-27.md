@@ -11,12 +11,13 @@ published: true
 
 ## Recorded zoom session
 
-## Part 1: The Capsid Anatomy Athena
+## Part 1: The Athena initiative
 
-### The Athena initiatve:
-+ Share technical state-of-the-art science transparently.
-+ Synthesize scienctific knowldege (provide big picture) to complement encyclopedic knowledge.
-+ Decouple evolving scientific knowledge from publications, which are snapshots of science necessary for validation, advertisement, and promotion.
+### Three foundational points:
++ Sharing scientific state-of-the-art transparently.
++ Synthesizing scienctific knowldege.
++ Decouple evolving scientific knowledge from publications:
+    + Journals publish snapshots of science used for validation, advertisement, and promotion.
 
 ### Temporary Athena site for the Capsid Anatomy project:
 + GitHub repo: <https://github.com/luquelab/auto-lattice>
