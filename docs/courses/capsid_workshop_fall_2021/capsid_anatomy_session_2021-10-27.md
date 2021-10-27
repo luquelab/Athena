@@ -11,7 +11,7 @@ published: true
 October 27, 2021
 
 ### Access to workshop files
-+ Folder in [GitHub repo](https://github.com/luquelab/Athena/tree/gh-pages/docs/courses/capsid_workshop_fall_2021).
++ Folder in the [Athena GitHub repo](https://github.com/luquelab/Athena/tree/gh-pages/docs/courses/capsid_workshop_fall_2021).
 + Online content provided by GitHub pages is based on the standard lab's [public documentation system](https://luquelab.github.io/Athena/courses/lab_public_documentation.html).
 + Our approach to share knowledge steams from our [Athena initiative](https://luquelab.github.io/Athena/knowledge/synthesis.html).
 
