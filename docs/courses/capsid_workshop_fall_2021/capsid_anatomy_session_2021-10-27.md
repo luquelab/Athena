@@ -7,7 +7,7 @@ grand_parent: Courses and Tutorials
 published: true
 ---
 
-# Session 2: Capsid Geometrical Anatomy (Luque lab)
+# Capsid Geometrical Anatomy (Luque lab)
 
 ## Recorded zoom session
 
@@ -42,7 +42,10 @@ Capsid anatomy:
     + First used in [Luque *et al.* Microorganisms, 2020](https://doi.org/10.3390/microorganisms8121944). 
 
 How to assign T-numbers:
-+ Criteria 1 (Diana): Shape and stoichiometric correspondence between geometric tiles and protein clusters.
++ Molecular approach: Correspondence between geometric tiles and protein clusters.
+
+
+
 + Criteria 2 (Colin): Mechanical correspondence between geometric tiles and quasi-rigid protein domains.
 + The auto-lattice protocol aims to offer an automatic strategy with human validation.
 + Show example (5uu5) and current outputs.
