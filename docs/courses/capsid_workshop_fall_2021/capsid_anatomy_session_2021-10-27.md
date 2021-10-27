@@ -10,7 +10,7 @@ published: true
 # Capsid Geometrical Anatomy (Luque lab)
 October 27, 2021
 
-## Part 1: The Athena initiative
+## The Athena initiative
 
 ### The three foundations of Athena:
 1. Constant restructuring (refactoring) of scienctific knowldege.
@@ -24,7 +24,7 @@ October 27, 2021
 + GitHub repo: <https://github.com/luquelab/auto-lattice>
 + Online public documentation: <https://luquelab.github.io/auto-lattice>
 
-## Part 2: Capsid anatomy:
+## Part 1: Capsid anatomy:
 
 ### Capsid molecular composition
 + Stoichiometry: Major capsid, minor capsid, scaffold, reinforcemen, and decoration proteins.
@@ -74,6 +74,6 @@ October 27, 2021
 
 ### Part 2: Molecular approach (Diana Lee)
 
-### Part 2: Mechanical approach (Colin Brown)
+### Part 3: Mechanical approach (Colin Brown)
 
 
