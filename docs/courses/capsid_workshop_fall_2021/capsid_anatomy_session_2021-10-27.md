@@ -15,18 +15,18 @@ published: true
 
 ### Part 1: The Capsid Anatomy Athena
 
-Evolving state-of-the-art accessible online initiative:
-+ GitHub repo: <https://github.com/luquelab/auto-lattice>
-+ Online public documentation: <https://luquelab.github.io/auto-lattice>
-
-Outreach impact:
+The Athena initiatve:
 + Share technical state-of-the-art science transparently.
 + Synthesize scienctific knowldege (provide big picture) to complement encyclopedic knowledge.
 + Decouple evolving scientific knowledge from publications, which are snapshots of science necessary for validation, advertisement, and promotion.
 
+Temporary Athena site for the Capsid Anatomy project:
++ GitHub repo: <https://github.com/luquelab/auto-lattice>
++ Online public documentation: <https://luquelab.github.io/auto-lattice>
+
 Capsid anatomy:
 + Capsid stoichiometry: major capsid protein, minor capsid protein, scaffold, reinforcemen proteins, decoration proteins
-    + The criteria on how to assign functions is not clear.
+    + Functions other than major capsid protein are usually fuzzy.
 + Capsid diameter, surface, volume, and asphericity (internal and external)
     + Chimera tools: ...
 + Capsid geometric architecture: Lattice and T-number (icosahedral) , Lattice T-number, and Q-number (elongated),...
