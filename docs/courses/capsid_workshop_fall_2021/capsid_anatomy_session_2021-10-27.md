@@ -27,7 +27,7 @@ Temporary Athena site for the Capsid Anatomy project:
 Capsid anatomy:
 + Capsid composition and stoichiometry: major capsid protein, minor capsid protein, scaffold, reinforcemen proteins, and decoration proteins.
 
-![Patience capsid anatomy](https://github.com/luquelab/auto-lattice/blob/main/results/patience-01.png)
+![Patience capsid anatomy](/images/2021-10-27/patience.png)
 
 ![Patience capsid inside](/images/2021-10-27/patience_inside.png)
 
