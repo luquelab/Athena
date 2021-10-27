@@ -64,18 +64,15 @@ October 27, 2021
     + More examples in <https://luquelab.github.io/auto-lattice/output/>.
 
 
-**Mechanical approach**: Correspondence quasi-rigid protein domains and geometrical tiles.
-+ The auto-lattice protocol aims to offer an automatic strategy with human validation.
-+ Show example (5uu5) and current outputs.
-+ Give insight so far: what looks like a trihex on the surface is a solid hex interiorly: The fish scale mechanism of HK97-fold proteins.
+**Mechanical approach**: Correspondence between quasi-rigid regions and geometrical tiles.
++ Elastic analysis of capsid (perturbation analysis of alpha-carbon models).
+    + Example: Small tobacco necrosis virus (PDB 1A34)
+    + ![STNV-decomposition](https://luquelab.github.io/cbrown_thesis_athena/output/Subdivisions/1a34_20_domains_optimal.png)
+    + ![STNV-animation](https://giphy.com/embed/UGoGrbAlQ2GjVvFT97)
+    + Computational challenge: large capsids.
 
+### Part 2: Molecular approach (Diana Lee)
 
-### Part 2: Current auto-lattice (criteria 1)
-+ More manual than automatic.
-+ It will represent our first effort.
-
-### Part 2: Quasi-rigid domains (criteria 2)
-+ A potentially more automatic approach.
-+ Challenge with large capsids.
+### Part 2: Mechanical approach (Colin Brown)
 
 
