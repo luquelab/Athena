@@ -16,8 +16,8 @@ October 27, 2021
 + Our approach to share knowledge steams from our [Athena initiative](https://luquelab.github.io/Athena/knowledge/synthesis.html).
 
 ### Temporary Athena site for the Capsid Anatomy project:
-+ GitHub repo: <https://github.com/luquelab/auto-lattice>
-+ Online public documentation: <https://luquelab.github.io/auto-lattice>
++ GitHub research repo: <https://github.com/luquelab/auto-lattice>
++ Accessible online site: <https://luquelab.github.io/auto-lattice>
 
 ## Part 1: Capsid anatomy
 
