@@ -49,17 +49,19 @@ October 27, 2021
     + ![5uu5 hexagonal](/images/2021-10-27/pdb_5uu5_hexagonal_lattice.png)
     + ![5uu5 trihex](/images/2021-10-27/pdb_5uu5_trihex_lattice.png)
     + ![5uu5 trihex-dual](/images/2021-10-27/pdb_5uu5_trihex-dual_lattice.png)
-+ Observation: **The fuzzy line between minor capsid and reinforcement proteins.**
++ Observation: *Challenge identifying minor capsid proteins:*
 
     + ![Patience capsid anatomy](/images/2021-10-27/patience.png)
 
     + ![Patience capsid inside](/images/2021-10-27/patience_inside.png)
     
-+ Observation: **The HK97-fold sliding hypothesis.**: <https://luquelab.github.io/auto-lattice/output/>
++ Observation: *The HK97-fold sliding hypothesis:*
 
     + ![HK97 capsid anatomy gallery](https://luquelab.github.io/auto-lattice/output/2fs3.png)
 
     + ![Patience capsid anatomy gallery](https://luquelab.github.io/auto-lattice/output/patience.png)
+
+    + More examples in <https://luquelab.github.io/auto-lattice/output/>.
 
 
 **Mechanical approach**: Correspondence quasi-rigid protein domains and geometrical tiles.
