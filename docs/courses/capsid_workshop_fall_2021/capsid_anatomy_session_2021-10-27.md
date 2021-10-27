@@ -10,15 +10,10 @@ published: true
 # Capsid Geometrical Anatomy (Luque lab)
 October 27, 2021
 
-## The Athena initiative
-
-### The three foundations of Athena:
-1. Constant restructuring (refactoring) of scienctific knowldege.
-    + Restraining the spontaneous increase of scientific noise (entropy).
-2. Sharing state-of-the-art science transparently and unpretentiously.
-    + Reducing inaccessibility of scientific knowledge and bombastic rhetoric.
-3. Governing scientific knowledge of the people, for the people, and by the people.
-    + Decoupling knowledge from journal publications (validation, advertisement, and promotion).
+### Access to workshop files
++ GitHub repo: https://github.com/luquelab/Athena/tree/gh-pages/docs/courses/capsid_workshop_fall_2021
++ Online content provided by GitHub pages, following the lab's [public documentation approach](docs/courses/lab_public_documentation.md).
++ This follows our [Athena initiative](docs/knowledge/synthesis.md).
 
 ### Temporary Athena site for the Capsid Anatomy project:
 + GitHub repo: <https://github.com/luquelab/auto-lattice>
