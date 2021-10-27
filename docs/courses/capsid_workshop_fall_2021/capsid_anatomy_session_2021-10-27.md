@@ -14,11 +14,11 @@ published: true
 ## Part 1: The Athena initiative
 
 ### The three foundations of Athena:
-+ Constant restructuring (refactoring) of scienctific knowldege.
+1. Constant restructuring (refactoring) of scienctific knowldege.
     + Restraining the spontaneous increase of scientific noise (entropy).
-+ Sharing state-of-the-art science transparently and unpretentiously.
+2. Sharing state-of-the-art science transparently and unpretentiously.
     + Hampering inaccessibility and bombastic scientific rhetoric.
-+ Governing scientific knowledge of the people, for the people, and by the people.
+3. Governing scientific knowledge of the people, for the people, and by the people.
     + Decoupling knowledge from journal publications (professional validation, advertisement, and promotion).
 
 ### Temporary Athena site for the Capsid Anatomy project:
