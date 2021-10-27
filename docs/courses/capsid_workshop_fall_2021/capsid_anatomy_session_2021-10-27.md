@@ -10,8 +10,6 @@ published: true
 # Capsid Geometrical Anatomy (Luque lab)
 October 27, 2021
 
-## Recorded zoom session
-
 ## Part 1: The Athena initiative
 
 ### The three foundations of Athena:
