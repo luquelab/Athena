@@ -4,7 +4,7 @@ title: Session 1 - Oct 26
 nav_order: 1
 parent: Capsid Anatomy Workshop 2021
 grand_parent: Courses and Tutorials
-published: true
+published: false
 ---
 
 # Session 1: Capsid molecular model from cryoEM map (White lab)
