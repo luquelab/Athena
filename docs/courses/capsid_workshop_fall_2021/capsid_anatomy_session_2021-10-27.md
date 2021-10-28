@@ -10,6 +10,9 @@ published: true
 # Capsid Geometrical Anatomy (Luque lab)
 October 27, 2021
 
+### Zoom session
++ [Public recording with integrated audio transcript.](https://sdsu.zoom.us/rec/share/6SKUAbu6C3IYjXK-FQI5L45YlJ_xt5rO1y2ewvk4E--gEtv-_BQL5mqcaV0mgYJs.ZWoPRpkz3_gLsCBO)
+
 ### Access to workshop files
 + Folder in the [Athena GitHub repo](https://github.com/luquelab/Athena/tree/gh-pages/docs/courses/capsid_workshop_fall_2021).
 + Online content provided by GitHub pages is based on the standard lab's [public documentation system](https://luquelab.github.io/Athena/courses/lab_public_documentation.html).
