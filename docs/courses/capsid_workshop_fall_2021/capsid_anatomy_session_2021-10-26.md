@@ -1,23 +1,16 @@
 ---
 layout: default
-title: Session 1 - Oct 26
+title: Session 1
 nav_order: 1
 parent: Capsid Anatomy Workshop 2021
 grand_parent: Courses and Tutorials
-published: false
+published: true
 ---
 
 # Session 1: Capsid molecular model from cryoEM map (White lab)
 
 ## Recorded zoom session
-Topic: Luque Lab Meeting
-Date: Oct 26, 2021 09:57 AM Pacific Time (US and Canada)
-
-Click here to view your recording (this link can be used only by the host): 
-<https://SDSU.zoom.us/recording/detail?meeting_id=LAJtXGHqSoeNVH67igsmGQ%3D%3D>
-
-Copy the link below to share this recording (with the integrated audio transcript) with viewers:
-<https://SDSU.zoom.us/rec/share/w3gXBfrrL0ut-_Gv1pfw0nupA8_EhQjHWFEcq4aoGnXtCfnfRKxB-lFukMhkmChU.cuKmYYbXrLwjBkTk>
++ [Public recording with integrated audio transcript.](https://SDSU.zoom.us/rec/share/w3gXBfrrL0ut-_Gv1pfw0nupA8_EhQjHWFEcq4aoGnXtCfnfRKxB-lFukMhkmChU.cuKmYYbXrLwjBkTk)
 
 ## Agenda
 
