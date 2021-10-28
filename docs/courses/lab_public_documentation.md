@@ -25,7 +25,7 @@ The lab currently generates public documentation using [GitHub Pages](https://pa
 2. The rest of the steps are analogous to the [new project section](#publishing-the-documentation-of-a-new-project), skipping step 1.
 
 ## Understanding useful advanced features
-+ Customize the site modifying the [_config.yml](https://jekyllrb.com/docs/configuration/) file in /docs coded in [YAML](https://yaml.org).
++ Customize the site modifying the [_config.yml](https://jekyllrb.com/docs/configuration/) file in /docs coded in [YAML](https://yaml.org). You will need to update the aux_links to link to your own repo, and to change "Project Template" to the name of your own project. 
 + Modify the structure and dependencies of your pages adapting the [Front Matter](https://jekyllrb.com/docs/front-matter/) section in your markdown files coded also using [YAML](https://yaml.org).
 + Modify the html templates of the [theme](https://jekyllrb.com/docs/themes/) if necessary.
 + Write math using [MathJax](http://mathjax.org/), which is based on [LaTex synthax](https://en.wikibooks.org/wiki/LaTeX/Mathematics). The [project_template](https://github.com/luquelab/project_template) repo contains a modified [head.html](https://github.com/luquelab/project_template/blob/main/docs/_includes/head.html) template supporting MathJax in the website.
