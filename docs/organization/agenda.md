@@ -27,6 +27,10 @@ parent: Organization
 + 2:00 pm - 3:30 pm
 + Colin Brown presenting (20 min)
 
+### December 3, Fri: Ugly Sweater Christmas Pub Crawl
++ 2:00 pm
++ Ocean Beach bars
+
 ### December 9, Thu: Lab meeting
 + 9:30 am - 11:30 am
 + Aurora Vogel presenting (20 min)
