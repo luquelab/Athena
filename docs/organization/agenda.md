@@ -21,8 +21,6 @@ parent: Organization
 + 9:30 - 11:30 am
 + Diana Lee presenting (20 min)
 
-### November 25 - Thanksgiving
-
 ### December 2, Thu: Lab meeting
 + 2:00 pm - 3:30 pm
 + Colin Brown presenting (20 min)
