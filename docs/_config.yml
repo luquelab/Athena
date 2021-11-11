@@ -7,4 +7,10 @@ remote_theme: pmarsceill/just-the-docs
 ### Color scheme supports "light" (default) and "dark"
 color_scheme: light
 
+date_format: "%B %d, %Y"
+
+aux_links:
+  "Athena on GitHub":
+    - "//github.com/luquelab/Athena"
+
 

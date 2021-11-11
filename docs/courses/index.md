@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Courses and Tutorials
-nav_order: 3
-parent: Products
+nav_order: 5
 has_children: true
 ---
 

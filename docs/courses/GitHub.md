@@ -2,7 +2,7 @@
 layout: default
 title: GitHub
 nav_order: 2
-parent: Courses
+parent: Courses and Tutorials
 ---
 
 # GitHub fundamentals for lab members

@@ -2,7 +2,7 @@
 layout: default
 title: SDSURF
 parent: Courses and Tutorials
-nav_order: 1
+nav_order: 4
 ---
 
 # San Diego State University Research Foundation (SDSURF)
