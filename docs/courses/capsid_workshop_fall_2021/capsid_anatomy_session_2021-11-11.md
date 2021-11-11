@@ -19,7 +19,7 @@ November 11, 2021
 
 ### Access to the main files for the session
 + [Lee et al. pre-print 2021-10-01](https://luquelab.github.io/Athena/courses/capsid_workshop_fall_2021/images/2021-11-11/Lee_et_al_manuscript_submitted_2021-10-01.pdf): This pre-print introduces the genome-to-T number and MCP-to-T number models and investigates metagenomically assembled gut phage genomes.
-+ [VAN: Virus Anatomy Navigator](https://github.com/luquelab/VAN): This GitHub repository is the umbrella of the different genotype-to-phenotype viral structural tools that the Luque lab has or will develop.
++ [VAN: Virus Anatomy Navigator](https://github.com/luquelab/VAN): This GitHub repository is the umbrella of the different genotype-to-phenotype viral structural tools that the Luque lab has or will develop. Checkout the **workshop** branch.
 
 ## Part 1
 
