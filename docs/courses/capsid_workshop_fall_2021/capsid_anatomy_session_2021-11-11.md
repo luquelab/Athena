@@ -41,3 +41,7 @@ Overview. Images extracted from [Lee et al. pre-print 2021-10-01](https://luquel
 ## Part 3
 
 ### Diana Lee: MCP-to-T-number (MCP2T) model demonstration
+
+## Closure
++ Decide days for UConn visit.
++ Heads-up: Assembly Virus Workshop at SDSU (Dec 6 and 8 from 3 pm to 5 pm Pacific Time).
