@@ -11,7 +11,7 @@ published: true
 November 11, 2021
 
 ### Zoom session
-+ To be added.
++ [Zoom recording of Parts 2 and 3](https://sdsu.zoom.us/rec/share/F9Innzg9hiAxQi5bJz_4iTodchJRLVbtioGtWXa7g1IAoLEJnX0I7PHyHTL_s8-7.M7-yGsO2jfjRuB4F).
 + Agenda:
     + Part 1: Toni Luque provides an update and vision about the tools that the Luque lab has been developing to predict the structural phenotype of viruses from genomic information.
     + Part 2: Diana Lee leads a demonstration on how to predict the capsid architecture of tailed phages from their genome.
