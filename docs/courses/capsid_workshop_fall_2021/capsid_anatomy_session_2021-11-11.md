@@ -18,10 +18,24 @@ November 11, 2021
     + Part 3: Diana Lee leads a demonstration on how to predict the capsid architecture of tailed phages from their major capsid protein gene.
 
 ### Access to the main files for the session
-+ [Lee et al. pre-print](https://luquelab.github.io/Athena/courses/capsid_workshop_fall_2021/images/2021-11-11/Lee_et_al_manuscript_submitted_2021-10-01.pdf): This pre-print introduces the genome-to-T number and MCP-to-T number models and investigates metagenomically assembled gut phage genomes.
++ [Lee et al. pre-print 2021-10-01](https://luquelab.github.io/Athena/courses/capsid_workshop_fall_2021/images/2021-11-11/Lee_et_al_manuscript_submitted_2021-10-01.pdf): This pre-print introduces the genome-to-T number and MCP-to-T number models and investigates metagenomically assembled gut phage genomes.
 + [VAN: Virus Anatomy Navigator](https://github.com/luquelab/VAN): This GitHub repository is the umbrella of the different genotype-to-phenotype viral structural tools that the Luque lab has or will develop.
 
+## Part 1
 
+### Tailed phage icosahedral capsids
+![Phage capsids](/images/2021-11-11/icosahedral_capsids_Tnumbers_2021-09-28_no_ai_capabilities.svg)
 
+### Genotype-to-phenotype approach
+![Approach](/images/2021-11-11/methods_G2T_and_MCP2T_2021-09-28_no_ai_capabilities.svg)
 
+### Fishing structures in metagenomes
+![Application](/images/2021-11-11/predicted_T_from_gut_MCPs_2021-10-01_no_ai_capability.svg)
 
+## Part 2
+
+### Diana Lee: Genome-to-T-number (G2T) model demonstration
+
+## Part 3
+
+### Diana Lee: MCP-to-T-number (MCP2T) model demonstration
