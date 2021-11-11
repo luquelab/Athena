@@ -23,6 +23,8 @@ November 11, 2021
 
 ## Part 1
 
+Overview. Images extracted from [Lee et al. pre-print 2021-10-01](https://luquelab.github.io/Athena/courses/capsid_workshop_fall_2021/images/2021-11-11/Lee_et_al_manuscript_submitted_2021-10-01.pdf).
+
 ### Tailed phage icosahedral capsids
 ![Phage capsids](/images/2021-11-11/icosahedral_capsids_Tnumbers_2021-09-28_no_ai_capabilities.svg)
 
