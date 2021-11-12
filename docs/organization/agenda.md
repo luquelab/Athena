@@ -10,11 +10,11 @@ parent: Organization
 
 ### November 18, Thu: Lab meeting
 + 9:30 - 11:30 am
-+ Diana Lee presenting (20 min)
++ Aurora Vogel presenting (20 min)
 
 ### December 2, Thu: Lab meeting
 + 2:00 pm - 3:30 pm
-+ Colin Brown presenting (20 min)
++ Caitlin Bartels presenting (20 min)
 
 ### December 3, Fri: Ugly Sweater Christmas Pub Crawl
 + 2:00 pm
@@ -22,7 +22,7 @@ parent: Organization
 
 ### December 9, Thu: Lab meeting
 + 9:30 am - 11:30 am
-+ Aurora Vogel presenting (20 min)
++ Brandon Ricafrente presenting (20 min)
 
 ### January 14, Sat: Quarterly Meeting
 + Plan TDB
