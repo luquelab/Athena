@@ -8,10 +8,6 @@ parent: Organization
 # Lab's Agenda
 
 
-### November 18, Thu: Lab meeting
-+ 9:30 - 11:30 am
-+ Aurora Vogel presenting (20 min)
-
 ### December 2, Thu: Lab meeting
 + 2:00 pm - 3:30 pm
 + Caitlin Bartels presenting (20 min)
