@@ -8,10 +8,6 @@ parent: Organization
 # Lab's Agenda
 
 
-### November 18, Thu: Lab meeting
-+ 9:30 - 11:30 am
-+ Aurora Vogel presenting (20 min)
-
 ### December 2, Thu: Lab meeting
 + 2:00 pm - 3:30 pm
 + Caitlin Bartels presenting (20 min)
@@ -19,6 +15,10 @@ parent: Organization
 ### December 3, Fri: Ugly Sweater Christmas Pub Crawl
 + 2:00 pm
 + Ocean Beach bars
+
+### December 6 & 8, Mon & Wed: Capsid Assembly Workshop (Garmann Lab)
++ 3:00 pm - 5:00 pm
++ GMCS 405
 
 ### December 9, Thu: Lab meeting
 + 9:30 am - 11:30 am
