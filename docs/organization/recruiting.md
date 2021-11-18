@@ -8,7 +8,7 @@ has_children: false
 
 # Open positions in the lab
 
-## Postdoctoral Position in Computational Biophysics in San Diego
+## Postdoctoral Position in Viral Computational Biophysics in San Diego
 
 The [Viral Information Institute](https://viralization.org) has an open postdoctoral fellowship in computational biophysics funded by the [Gordon and Betty Moore Foundation](https://www.moore.org) to investigate the origin of viruses. The research is at the interface of physical virology, viral ecology, and viral evolution, and it will combine geometrical modeling, molecular simulations, and bioinformatics. The ideal candidate would have experience modeling biological systems and a good foundation in mathematics and physics. In addition, experience in molecular dynamics would be a plus. The fellowship could start as early as January 2, 2022, and last up to three years.
 
