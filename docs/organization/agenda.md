@@ -20,6 +20,10 @@ parent: Organization
 + 2:00 pm
 + Ocean Beach bars
 
+### December 6 & 8, Mon & Wed: Capsid Assembly Workshop (Garmann Lab)
++ 3:00 pm - 5:00 pm
++ GMCS 405
+
 ### December 9, Thu: Lab meeting
 + 9:30 am - 11:30 am
 + Brandon Ricafrente presenting (20 min)
