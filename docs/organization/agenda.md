@@ -13,7 +13,7 @@ parent: Organization
 + GMCS 405
 
 ### December 9, Thu: Lab meeting
-+ 9:30 am - 11:30 am
++ 2:00 pm - 3:00 pm
 + Brandon Ricafrente presenting (20 min)
 
 ### January 14, Sat: Quarterly Meeting
