@@ -7,14 +7,10 @@ parent: Organization
 
 # Lab's Agenda
 
-
-### December 6 & 8, Mon & Wed: Capsid Assembly Workshop (Garmann Lab)
-+ 3:00 pm - 5:00 pm
-+ GMCS 405
-
-### December 9, Thu: Lab meeting
+### December 16, Thu: Lab meeting
 + 2:00 pm - 3:00 pm
-+ Brandon Ricafrente presenting (20 min)
++ Aurora Vogel presenting
++ Eureka afterwards
 
 ### January 14, Sat: Quarterly Meeting
 + Plan TDB
