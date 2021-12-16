@@ -3,7 +3,7 @@ layout: default
 title: Recruiting
 nav_order: 6
 parent: Organization
-has_children: false
+has_children: true
 ---
 
 # Open positions in the lab
