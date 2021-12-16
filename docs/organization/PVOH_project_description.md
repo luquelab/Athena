@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Research plan
-nav_order: 6
+nav_order: 1
 parent: Recruiting
 has_children: false
 ---
