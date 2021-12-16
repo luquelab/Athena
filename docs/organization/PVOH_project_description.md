@@ -1,3 +1,11 @@
+---
+layout: default
+title: Research plan
+nav_order: 6
+parent: Recruiting
+has_children: false
+---
+
 # Project: Perpetual Viral Origins
 + ### Principal Investigators: Forest Rohwer, Anca Segall, Rob Edwards, and Antoni Luque
 + ### Institutions: San Diego State University and Flinders University
