@@ -8,8 +8,8 @@ has_children: false
 ---
 
 # Project: Perpetual Viral Origins
-+ ### Principal Investigators: Forest Rohwer, Anca Segall, Rob Edwards, and Antoni Luque
-+ ### Institutions: San Diego State University and Flinders University
++ ### Principal Investigators: [Forest Rohwer](https://scholar.google.com/citations?hl=en&user=ALEZEdoAAAAJ), [Rob Edwards](https://scholar.google.com/citations?hl=en&user=e7fvl1kAAAAJ), [Anca Segall](https://scholar.google.com/citations?hl=en&user=p1mzR2gAAAAJ), and [Antoni Luque](https://scholar.google.com/citations?user=ytvnI68AAAAJ&hl=en).
++ ### Centers involved: [Viral Information Institute](https://viralization.org) and [Flinders Accelerator for Microbiome Exploration](https://fame.flinders.edu.au).
 
 The research plan is a guide to the intellectual work to be developed in the postdoctoral fellowship. However, as the research unfolds, the priorities and scope of the research may pivot.
 
