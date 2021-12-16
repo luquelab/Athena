@@ -3,6 +3,7 @@ layout: default
 title: Research plan
 nav_order: 1
 parent: Recruiting
+grand_parent: Organization
 has_children: false
 ---
 
