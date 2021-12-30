@@ -7,12 +7,6 @@ parent: Organization
 
 # Lab's Agenda
 
-
-## December 16, Thu: Lab meeting
-+ 2:00 pm - 3:00 pm
-+ Aurora Vogel presenting (20 min)
-+ Eureka afterwards
-
 ### January 14, Sat: Quarterly Meeting
 + Plan TDB
 
