@@ -1,9 +1,9 @@
 ---
 layout: default
-nav_order: 6
-Title: Markdown Tutorials
-parent: Courses and Tutorials
-has_children: true
+nav_order: 4
+Title: Markdown for GitHub
+parent: GitHub for Luque Lab
+grand_parent: Courses and Tutorials
 ---
 
 # Markdown Tutorials
