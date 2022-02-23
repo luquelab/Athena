@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Images
-nav_order: 2
-parent: Markdown Tutorials
+nav_order: 6
+parent: GitHub for Luque Lab
 grand_parent: Courses and Tutorials
 ---
 
