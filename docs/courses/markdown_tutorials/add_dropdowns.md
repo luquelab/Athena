@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Adding Dropdown Menus
-nav_order: 2
-parent: Markdown Tutorials
+title: Adding Dropdown Menus for GitHub pages
+nav_order: 5
+parent: GitHub for Luque Lab
 grand_parent: Courses and Tutorials
 ---
 
