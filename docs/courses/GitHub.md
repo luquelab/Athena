@@ -13,8 +13,8 @@ parent: Courses and Tutorials
 
 ## Dintinction between git and github:
 
-- Git is an actual version control software application which can be run anywhere. (Download git)[https://git-scm.com/downloads]
-- Githib is a web service fpr software development and version control using git. One needs to signup or have an account to access (GitHub)[https://github.com/] 
+- Git is an actual version control software application which can be run anywhere. [Download git](https://git-scm.com/downloads)
+- Githib is a web service fpr software development and version control using git. One needs to signup or have an account to access [GitHub](https://github.com/)
 
 
 + GitHub repos
