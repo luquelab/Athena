@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Images
+title: Adding Images to Markdown Files
 nav_order: 6
 parent: GitHub for Luque Lab
 grand_parent: Courses and Tutorials
