@@ -3,6 +3,7 @@ layout: default
 title: GitHub for Luque Lab
 nav_order: 1
 parent: Courses and Tutorials
+has_children: true
 ---
 
 # GitHub fundamentals for lab members
