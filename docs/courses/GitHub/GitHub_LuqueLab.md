@@ -15,9 +15,10 @@ has_children: true
 ## Dintinction between git and github:
 
 - Git is an actual version control software application which can be run anywhere. [Download git](https://git-scm.com/downloads)
-- Githib is a web service fpr software development and version control using git. One needs to signup or have an account to access [GitHub](https://github.com/)
+- GitHub is a web service for software development and version control using git. One needs to signup or have an account to access [GitHub](https://github.com/)
 
+## GitHub tutorials
 
-+ GitHub repos
-+ Git in command line
-+ GitHub and Jekyll
+- [Git and Github for beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk&ab_channel=freeCodeCamp.org)
+- [Git command line fundamentals](https://www.youtube.com/watch?v=HVsySz-h9r4)
+- [Git and Github playlist](https://www.youtube.com/watch?v=3RjQznt-8kE&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
