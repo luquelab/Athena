@@ -6,7 +6,7 @@ parent: Courses and Tutorials
 has_children: true
 ---
 
-# GitHub fundamentals for lab members
+# **GitHub fundamentals for lab members**
 
 - Luque Lab organizes all the projects on Github. Below are the fundamentals of using Git and Github.
 
