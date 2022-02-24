@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GitHub Repos
+title: GitHub pages with Jekyll
 nav_order: 3
 parent: GitHub for Luque Lab
 grand_parent: Courses and Tutorials
