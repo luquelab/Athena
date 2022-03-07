@@ -8,7 +8,7 @@ has_children: true
 
 # **GitHub fundamentals for lab members**
 
-[Luque Lab](https://www.luquelab.com/team.html) organizes all the projects on [Luque Lab Github organization](https://github.com/luquelab). Below are the fundamentals of using Git and Github. Git and Github are tools generally used by software developers and creative coders. Git is an actual version control software application which can be run anywhere. [Download git](https://git-scm.com/downloads). GitHub is a web service for software development and version control using git. One needs to signup or have an account to access [GitHub](https://github.com/)
+[Luque Lab](https://www.luquelab.com/team.html) organizes all the projects on [Luque Lab Github organization](https://github.com/luquelab). Below are the fundamentals of using Git and Github. Git and Github are tools generally used by software developers and creative coders. [Git](https://git-scm.com/downloads) is an actual version control software application which can be run anywhere. [GitHub]((https://github.com/)) is a web service for software development and version control using git. One needs to signup or have an account to access.
 
 ## Index
 - [GitHub Repositories](https://luquelab.github.io/Athena/courses/GitHub/GitHub_repos.html)
