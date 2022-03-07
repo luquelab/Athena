@@ -8,17 +8,18 @@ has_children: true
 
 # **GitHub fundamentals for lab members**
 
-- Luque Lab organizes all the projects on Github. Below are the fundamentals of using Git and Github.
+[Luque Lab](https://www.luquelab.com/team.html) organizes all the projects on [Luque Lab Github organization](https://github.com/luquelab). Below are the fundamentals of using Git and Github. Git and Github are tools generally used by software developers and creative coders. Git is an actual version control software application which can be run anywhere. [Download git](https://git-scm.com/downloads). GitHub is a web service for software development and version control using git. One needs to signup or have an account to access [GitHub](https://github.com/)
 
-- Git and Github are tools generally used by software developers and creative coders. Git exists for version control along with advanced and sophisticated features for collaboration 
+## Index
+- [GitHub Repositories](https://luquelab.github.io/Athena/courses/GitHub/GitHub_repos.html)
+- [Accessing Git though command line](https://luquelab.github.io/Athena/courses/GitHub/Git_commandline.html)
+- [Creating GitHub pages with Jekyll](https://luquelab.github.io/Athena/courses/GitHub/GitHub_pagesJekyll.html)
+- [Markdown Tutorials](https://luquelab.github.io/Athena/courses/markdown_tutorials/)
+- [Adding Dropdown Menus for GitHub pages](https://luquelab.github.io/Athena/courses/markdown_tutorials/add_dropdowns.html)
+- [Adding Images to Markdown Files](https://luquelab.github.io/Athena/courses/markdown_tutorials/add_images.html)
 
-## Dintinction between git and github:
-
-- Git is an actual version control software application which can be run anywhere. [Download git](https://git-scm.com/downloads)
-- GitHub is a web service for software development and version control using git. One needs to signup or have an account to access [GitHub](https://github.com/)
-
-## GitHub tutorials
-
+## Git and GitHub tutorials
 - [Git and Github for beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk&ab_channel=freeCodeCamp.org)
 - [Git command line fundamentals](https://www.youtube.com/watch?v=HVsySz-h9r4)
 - [Git and Github playlist](https://www.youtube.com/watch?v=3RjQznt-8kE&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
+
