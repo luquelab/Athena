@@ -1,7 +1,7 @@
 ---
 layout: default
 title: GitHub Backup  
-nav_order: 5
+nav_order: 7
 parent: GitHub for Luque Lab
 grand_parent: Courses and Tutorials
 ---
