@@ -17,6 +17,7 @@ has_children: true
 - [Markdown Tutorials](https://luquelab.github.io/Athena/courses/markdown_tutorials/)
 - [Adding Dropdown Menus for GitHub pages](https://luquelab.github.io/Athena/courses/markdown_tutorials/add_dropdowns.html)
 - [Adding Images to Markdown Files](https://luquelab.github.io/Athena/courses/markdown_tutorials/add_images.html)
+- [GitHub Backup](https://luquelab.github.io/Athena/courses/GitHub/backup_github.html)
 
 ## Git and GitHub tutorials
 - [Git and Github for beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk&ab_channel=freeCodeCamp.org)
