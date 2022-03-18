@@ -13,5 +13,5 @@ The lab's long-term mission is to decipher the role that viruses played in the o
 
 The current lab approach is based on computational modeling, combining mathematics, statistics, and biophysics with experimental collaborations. An intrinsic part of the lab's mission is training a new generation of interdisciplinary researchers with a solid foundation in scientific crafting, metacognition, and rapport.
 
-This is a new site under construction. It has a repository in GitHub and is generated with GitHub pages. The migration of our [prior lab's website](https://www.luquelab.com) will be completed in January 2022.
+This is a new site under construction. It has a repository in GitHub and is generated with GitHub pages. The migration of our [prior lab's website](https://www.luquelab.com) will be completed in August 2022.
 
