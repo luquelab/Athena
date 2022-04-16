@@ -8,6 +8,8 @@ grand_parent: Courses and Tutorials
 
 # Using qsub to submit bash scripts to run CheckV
 
+The official README for CheckV can be found [here](https://bitbucket.org/berkeleylab/checkv/src/master/).
+
 For this code to run we are assuming that you have bashrc-ana3.bashrc in your home directory.
 
 ~~~
