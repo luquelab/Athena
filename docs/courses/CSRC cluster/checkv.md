@@ -1,11 +1,11 @@
 
 ---
 layout: default
-title: Submitting Jobs On The cinci cluster - CheckV.
+title: Submitting Jobs On The cinci cluster: CheckV
 nav_order: 1
 parent: CSRC cluster
 grand_parent: Courses and Tutorials
-
+has_children: false
 ---
 
 # Using qsub to submit bash scripts to run CheckV
