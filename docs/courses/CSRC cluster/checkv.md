@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Submitting jobs on cinci cluster - CheckV 
-nav_order: 1
+nav_order: 2
 parent: CSRC cluster
 grand_parent: Courses and Tutorials
 ---
@@ -45,4 +45,8 @@ checkv complete_genomes input_file.fna output_directory
 checkv quality_summary input_file.fna output_directory
 ~~~
 
+You can now submit your script as a job using the command:
+~~~
+qsub checkv.sh
+~~~
 
