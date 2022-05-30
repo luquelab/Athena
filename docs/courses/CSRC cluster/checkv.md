@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Submitting jobs on cinci cluster - CheckV 
-nav_order: 2
+nav_order: 3
 parent: CSRC cluster
 grand_parent: Courses and Tutorials
 ---
