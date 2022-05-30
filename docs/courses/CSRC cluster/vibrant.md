@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Submitting jobs on cinci cluster - VIBRANT 
-nav_order: 3
+nav_order: 4
 parent: CSRC cluster
 grand_parent: Courses and Tutorials
 ---
