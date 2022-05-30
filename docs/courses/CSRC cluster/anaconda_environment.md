@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Entering the conda environment on cinci cluster
-nav_order: 1
+nav_order: 2
 parent: CSRC cluster
 grand_parent: Courses and Tutorials
 ---
