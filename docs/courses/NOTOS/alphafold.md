@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Alphafold on NOTOS server  
+title: Alphafold on the Notos server
 nav_order: 1
-parent: NOTOS server
-grand_parent: Courses and Tutorials
+parent: Courses and Tutorials
+has_children: true
 ---
 
 # AlphaFold on Notos
