@@ -3,7 +3,7 @@ layout: default
 title: Adding Dropdown Menus for GitHub pages
 nav_order: 5
 parent: GitHub for Luque Lab
-grand_parent: Courses and Tutorials
+grand_parent: Lab Documentation
 ---
 
 # Adding Dropdown Menus to Projects 
