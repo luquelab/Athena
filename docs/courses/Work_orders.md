@@ -2,7 +2,7 @@
 layout: default
 title: Work Orders for Luque Lab
 nav_order: 7
-parent: Courses and Tutorials
+parent: Lab Documentation
 ---
 
 # Placing a work order at the Luque Lab
