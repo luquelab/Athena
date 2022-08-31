@@ -2,7 +2,7 @@
 layout: default
 title: Public documentation
 nav_order: 3
-parent: Courses and Tutorials
+parent: Lab Documentation
 ---
 
 # Sharing the lab's knowledge
