@@ -2,7 +2,7 @@
 layout: default
 title: Meeting Owl
 nav_order: 6
-parent: Courses and Tutorials
+parent: Lab Documentation
 ---
 
 # Setting Up MeetingOwl Pro
