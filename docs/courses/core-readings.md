@@ -2,7 +2,7 @@
 layout: default
 title: Core readings
 nav_order: 2
-parent: Courses and Tutorials
+parent: Lab Documentation
 ---
 
 # Core readings for lab members
