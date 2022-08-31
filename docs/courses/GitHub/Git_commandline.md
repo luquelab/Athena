@@ -3,7 +3,7 @@ layout: default
 title: Git though command line
 nav_order: 2
 parent: GitHub for Luque Lab
-grand_parent: Courses and Tutorials
+grand_parent: Lab Documentation
 ---
 
 # **Git through command line**
