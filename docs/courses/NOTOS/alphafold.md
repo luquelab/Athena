@@ -2,7 +2,7 @@
 layout: default
 title: Alphafold on Notos server
 nav_order: 1
-parent: Courses and Tutorials
+parent: Lab Documentation 
 has_children: false
 ---
 
