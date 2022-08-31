@@ -3,7 +3,7 @@ layout: default
 title: GitHub Repos
 nav_order: 1
 parent: GitHub for Luque Lab
-grand_parent: Courses and Tutorials
+grand_parent: Lab Documentation
 ---
 
 # **GitHub Repositories**
