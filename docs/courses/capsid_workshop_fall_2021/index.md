@@ -2,7 +2,7 @@
 layout: default
 nav_order: 8
 Title: Capsid Anatomy Workshop 2021
-parent: Courses and Tutorials
+parent: Lab Documentation
 has_children: true
 published: true
 ---
