@@ -3,7 +3,7 @@ layout: default
 title: Session 3
 nav_order: 3
 parent: Capsid Anatomy Workshop 2021
-grand_parent: Courses and Tutorials
+grand_parent: Lab Documentation
 published: true
 ---
 
