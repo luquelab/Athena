@@ -3,7 +3,7 @@ layout: default
 title: Adding Images to Markdown Files
 nav_order: 6
 parent: GitHub for Luque Lab
-grand_parent: Courses and Tutorials
+grand_parent: Lab Documentation
 ---
 
 # Adding Images to Markdown Files
