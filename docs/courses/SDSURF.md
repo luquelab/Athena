@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SDSURF
-parent: Courses and Tutorials
+parent: Lab Documentation
 nav_order: 4
 ---
 
