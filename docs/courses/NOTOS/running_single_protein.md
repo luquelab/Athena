@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Running Alphafold on Notos
+title: Running a single protein strcture on Alphafold
 nav_order: 1
 parent: Alphafold on Notos server 
 grand_parent: Lab Documentation
 has_children: false
 ---
 
-# Predicting a single protein structire using Alphafold on Notos 
+# Predicting a single protein structure using Alphafold on Notos 
 
 ### Setup
 1. Copy the alphafold folder from /mnt/beegfs/alphafold/alphafold to your home directory
