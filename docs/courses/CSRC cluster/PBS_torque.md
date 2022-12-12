@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Job Submission on Cinci 
-nav_order: 1
+nav_order: 2
 parent: CSRC cluster
 grand_parent: Lab Documentation
 ---
