@@ -7,11 +7,10 @@ grand_parent: Lab Documentation
 ---
 
 # Viewing PDF's on the cinci cluster
-​
+
 The cinci cluster uses okular as the document viewer. Following are the steps that need to be followed to use ssh with x11 forwarding be able to access okular.
-​
----
-​
+
+
 ## Accessing okular using Linux/ Mac 
 1. Download and install XQuartz on macOS
     * XQuartz package can be found [here](https://www.xquartz.org/).
@@ -27,7 +26,9 @@ The cinci cluster uses okular as the document viewer. Following are the steps th
 4. Open required file using the following command
     ``` okular path/doc.pdf ```
 5. More command line options for okular can be found [here](https://docs.kde.org/stable5/en/okular/okular/command-line-options.html).
----
+
+
+
 ## Accessing okular using Windows
 1. Download and install PuTTY from [here](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 2. Create a session under the 'Session' category. Enter 'cinci.sdsu.edu' under 'Host Name' and under 'Saved Sessions'.
