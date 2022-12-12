@@ -16,10 +16,14 @@ The cinci cluster uses okular as the document viewer. Following are the steps th
     * XQuartz package can be found [here](https://www.xquartz.org/)
     * Once this package is downloaded, install the server and follow the instructions provided on the dialogue box to complete the installation process
     * XQuartz can also be downloaded using the brew command on the terminal
+    
     ``` brew install -cask xquartz```
+    
 2. Reboot your mac 
     * Click on the Apple icon and then restart or use the following command on the terminal 
+    
     ``` sudo reboot ```
+    
 3. Log into cinci using the SSH command with -X or -Y  flages
 
     ```ssh -X user@cinci.sdsu.edu``` or 
