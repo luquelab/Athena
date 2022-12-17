@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Running a single protein strcture on Alphafold
+title: Running a single protein structure on Alphafold
 nav_order: 1
 parent: Alphafold on Notos server 
 grand_parent: Lab Documentation
@@ -25,7 +25,7 @@ has_children: false
 1. To run alphafold, go back to the home directory by running the command ``` cd ``` 
 2. Type the command ``` python3 ~/alphafold/docker/run_docker.py   --fasta_paths=path_to_sequence  --max_template_date=YYYY-MM-DD    --data_dir=/mnt/beegfs/alphafold/databases ```
     * For example: ``` python3 ~/alphafold/docker/run_docker.py --fasta_paths=T1050.fasta --max_template_date=2020-05-14 --data_dir=data_dir=/mnt/beegfs/alphafold/databases ```
-    * For optimized performance use the present reduced_dbs. For example: ``` python3 ~/alphafold/docker/run_docker.py --fasta_paths=T1050.fasta --max_template_date=2020-05-14 --model_preset=monomer --db_preset=reduced_dbs --data_dir=data_dir=/mnt/beegfs/alphafold/databases ```
+    * For optimized performance use the preset reduced_dbs. For example: ``` python3 ~/alphafold/docker/run_docker.py --fasta_paths=T1050.fasta --max_template_date=2020-05-14 --model_preset=monomer --db_preset=reduced_dbs --data_dir=data_dir=/mnt/beegfs/alphafold/databases ```
     * You can use the date variable for the max_template_date by running the command ```today = `date +%Y-%m-%d` ``` and setting max_template_date to ``` max_template_date = $today ```
 3. Other presets and options can be found [here](https://luquelab.github.io/Athena/courses/NOTOS/alphafold.html)
 
