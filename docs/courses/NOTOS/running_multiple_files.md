@@ -30,7 +30,7 @@ has_children: false
 6. Start a named screen session, by typing the following in your console ```screen -S session_name ``` 
 7. Run the following command to run the sequences on a single GPU 
 
-    ``` bash GPU_[GPU_number] path_to_the_folder_with_sequences```
+    ``` bash GPU_[GPU_number].sh path_to_the_folder_with_sequences```
 
     For example, if you want to run the sequences on GPU number 6: ``` bash GPU_6.sh ~\sequences\test_folder\``` where ``` ~\sequences\test_folder\``` is the folder with sequences. 
     
