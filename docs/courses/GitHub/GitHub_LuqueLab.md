@@ -1,7 +1,7 @@
 ---
 layout: default
 title: GitHub for Luque Lab
-nav_order: 1
+nav_order: 2
 parent: Lab Documentation 
 has_children: true
 ---
