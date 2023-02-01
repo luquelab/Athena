@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: GitHub for Luque Lab
