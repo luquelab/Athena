@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GitHub for Luque Lab
+title: Python Package Build Process: PyPI
 nav_order: 4
 parent: Lab Documentation 
 has_children: False
