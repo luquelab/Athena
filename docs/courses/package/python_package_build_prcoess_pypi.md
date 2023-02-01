@@ -29,6 +29,7 @@ project/
     - ```__init__.py``` is required to import the directory as a package, and should be empty
     - ```example.py``` is an example of a module within the package that could contain the logic (functions, classes, constants, etc.) of your package
 
+
 3. Update the project structure as follows
 ```
 project/
