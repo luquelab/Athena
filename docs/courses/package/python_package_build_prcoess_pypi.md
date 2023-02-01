@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Python Package Build Process - PyPI
-nav_order: 4
+nav_order: 5
 parent: Lab Documentation 
 has_children: False
 ---
