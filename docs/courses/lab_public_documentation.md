@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Public documentation
-nav_order: 3
+nav_order: 1
 parent: Lab Documentation
 ---
 
