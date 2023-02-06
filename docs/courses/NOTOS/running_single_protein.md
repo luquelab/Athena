@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Running a single protein structure on Alphafold
-nav_order: 1
+nav_order: 2
 parent: Alphafold on Notos server 
 grand_parent: Lab Documentation
 has_children: false
