@@ -132,6 +132,7 @@ setup(
          - ```requires``` is a list of packages that are needed to build your package. You don’t need to install them; build frontends like pip will install them automatically in a temporary, isolated virtual environment for use during the build process
         - ``build-backend``` is the name of the Python object that frontends will use to perform the build.
     - Configure metadata as follows:
+  
 ``` [project]
 name = "example_package_YOUR_USERNAME_HERE"
 version = "0.0.1"
