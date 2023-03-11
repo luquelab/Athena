@@ -133,7 +133,8 @@ setup(
         - ``build-backend``` is the name of the Python object that frontends will use to perform the build.
     - Configure metadata as follows:
   
-``` [project]
+```
+[project]
 name = "example_package_YOUR_USERNAME_HERE"
 version = "0.0.1"
 authors = [
