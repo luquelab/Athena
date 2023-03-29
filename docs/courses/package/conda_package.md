@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Python Package Build Process - Conda
-nav_order: 5
+nav_order: 6
 parent: Lab Documentation 
 has_children: False
 ---
