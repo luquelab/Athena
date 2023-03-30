@@ -22,6 +22,7 @@ This tutorial describes how to build a conda package
     - Follow [Building conda packages with conda skeleton](https://docs.conda.io/projects/conda-build/en/latest/user-guide/tutorials/build-pkgs-skeleton.html). The lab's GitHub template already has the basic skeleton. 
 
 2. Edit the [meta.yaml](https://docs.conda.io/projects/conda-build/en/latest/resources/define-metadata.html) file. It should look something like this:
+    {% raw %}
     ```
     {% set version = "1.1.0" %}
 
@@ -62,9 +63,10 @@ This tutorial describes how to build a conda package
     doc_source_url: https://github.com/shibukawa/imagesize_py/blob/master/README.rst
 
     ```
-
+    {% endraw %}
     - Here is another example from the pyCapsid repository 
 
+    {% raw %}
     ```
     #{% set data = load_setup_py_data() %}
 
@@ -154,6 +156,8 @@ This tutorial describes how to build a conda package
     #    - LisaSimpson
     #    - LandoCalrissian
     ```
+   {% endraw %}
+
 3. Write build script files build.sh and bls.bat if noarch: python is not included.
     - ```build.sh```---Shell script for macOS and Linux.
     - ```bld.bat```---Batch file for Windows.   
