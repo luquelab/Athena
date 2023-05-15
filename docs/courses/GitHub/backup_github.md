@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GitHub Backup  
+title: Lab GitHub Backup  
 nav_order: 7
 parent: GitHub for Luque Lab
 grand_parent: Lab Documentation
@@ -38,3 +38,16 @@ for dir in */; do
         cd ..;
 done
 ```
+
+The backup process is scheduled to run weekly. Upon completing the GitHub backup, the entire luquelab folder from the Cinci server is backed up to the Notos server using the following command:
+
+```
+  rsync -av --delete --force luquelab agarwal@notos.sdsu.edu:/mnt/beegfs/home/luquelab/backup
+```
+
+This ensures a seamless and secure transfer of data, maintaining the integrity of the luquelab folder for future reference and restoration purposes.
+
+
+
+
+
