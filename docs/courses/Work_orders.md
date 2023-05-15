@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Work Orders for Luque Lab
-nav_order: 7
+nav_order: 11
 parent: Lab Documentation
 ---
 
