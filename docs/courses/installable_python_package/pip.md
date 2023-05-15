@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Python Package Build Process - PyPI
-nav_order: 5
+nav_order: 1
 parent: Installable python package
 grand_parent: Lab Documentation
 has_children: False
