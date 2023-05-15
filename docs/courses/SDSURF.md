@@ -2,7 +2,7 @@
 layout: default
 title: SDSURF
 parent: Lab Documentation
-nav_order: 4
+nav_order: 7
 ---
 
 # San Diego State University Research Foundation (SDSURF)
