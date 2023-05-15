@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Viewing PDF's on cinci
-nav_order: 1
+nav_order: 5
 parent: CSRC cluster
 grand_parent: Lab Documentation
 ---
