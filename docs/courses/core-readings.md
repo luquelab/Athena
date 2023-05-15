@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Core readings
-nav_order: 2
+nav_order: 6
 parent: Lab Documentation
 ---
 
