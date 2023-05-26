@@ -31,10 +31,11 @@ Google Colab is a free cloud-based platform that allows you to write and run cod
 
 1. Google Colab provides a pre-installed environment with many popular Python libraries. However, if you need to install additional packages, you can use the `pip install` command.
 2. To install a package, create a new code cell and type the following command:
-```
-  !pip install package_name
-```
+  ```
+    !pip install package_name
+  ```
 Replace `package_name` with the name of the package you want to install.
+
 3. After typing the command, execute the cell to install the package. The installation may take a few moments, and the output will be displayed below the cell.
 4. Once installed, you can import and use the package in subsequent code cells.
 
