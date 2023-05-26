@@ -7,7 +7,7 @@ parent: Lab Documentation
 
 # Google Colab Instructions
 
-Google Colab is a free cloud-based platform that allows you to write and run code in your browser. It's a great tool for learning, experimenting, and collaborating on projects. This markdown file provides you with some basic instructions to help you get started with Google Colab.
+Google Colab is a free cloud-based platform that allows you to write and run code in your browser. It's a great tool for learning, experimenting, and collaborating on projects. This website provides you with some basic instructions to help you get started with Google Colab.
 
 ## Step 1: Accessing Google Colab
 
