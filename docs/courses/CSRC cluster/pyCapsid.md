@@ -14,6 +14,7 @@ its [installation documentation.](https://luquelab.github.io/pyCapsid/installati
 4. Inside that folder create a file named `config.toml` or download an example config.toml from [here](https://github.com/luquelab/pyCapsid/blob/main/docs/tutorial/config_simple.toml).
 Adjust the contents of this config file to the desired set of parameters. A more detailed  config file with more of the available options can be found [here](https://github.com/luquelab/pyCapsid/blob/main/docs/tutorial/conf_example.toml).
 5. Next create a python file with your preferred name, i.e. `run_pycap.py`. The contents of that file should look like this:
+
 ```python
 #!/usr/dataB/luquelab/members/ctbrown/miniconda3/envs/pycapsid/bin/python # This is the path to your python interpreter noted om step 2
 #PBS -l nodes=1:ppn=24 # This requests a single node with 24 processors per node. This corresponds to the higher quality nodes on the CSRC cluster
@@ -24,4 +25,5 @@ Adjust the contents of this config file to the desired set of parameters. A more
 from pyCapsid import run_capsid_report
 run_capsid_report('config.toml') # make sure the filename provided here is the same as the config file you created.
 ```
+
 6. Finally, check that you set the parameters in `config.toml` correctly and submit the job using `qsub run_pycap.py`.
